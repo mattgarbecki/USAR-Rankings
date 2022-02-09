@@ -1,443 +1,443 @@
-"tourney","Division","Round","Team1","Team2","T1P1","T1P2","T2P1","T2P2","t1score","t2score"
-"2021erie","Premier","Pool","Graham/Showalter","Old Line State","Joel Graham","PJ Showalter","Mark Borunda","James Swanson",21,18
-"2021erie","Premier","Pool","Graham/Showalter","Old Line State","Joel Graham","PJ Showalter","Mark Borunda","James Swanson",21,16
-"2021erie","Premier","Pool","Vascular","Barrel Roll Bros","Noah Luskus","Gabe Finocchi","Derek Johnson","Ezra Dantowitz",21,10
-"2021erie","Premier","Pool","Vascular","Barrel Roll Bros","Noah Luskus","Gabe Finocchi","Derek Johnson","Ezra Dantowitz",21,15
-"2021erie","Premier","Pool","Kinda Calculated","Volley Llamas","Ryan Marino","Dan Abrams","Joe Bondi","William Picone",15,21
-"2021erie","Premier","Pool","Kinda Calculated","Volley Llamas","Ryan Marino","Dan Abrams","Joe Bondi","William Picone",19,21
-"2021erie","Premier","Pool","Parallax","DOfus","Kyle Ackermann","Ryan Gross","Connor Prelich","Nate Hopkins",21,9
-"2021erie","Premier","Pool","Parallax","DOfus","Kyle Ackermann","Ryan Gross","Connor Prelich","Nate Hopkins",21,11
-"2021erie","Premier","Pool","Boobies & doobies","Closed on Sundays","Brandon Spector","Zac Vance","Ian Timan","Brooks Anderson",21,11
-"2021erie","Premier","Pool","Boobies & doobies","Closed on Sundays","Brandon Spector","Zac Vance","Ian Timan","Brooks Anderson",21,17
-"2021erie","Premier","Pool","Graham/Showalter","Barrel Roll Bros","Joel Graham","PJ Showalter","Derek Johnson","Ezra Dantowitz",21,11
-"2021erie","Premier","Pool","Graham/Showalter","Barrel Roll Bros","Joel Graham","PJ Showalter","Derek Johnson","Ezra Dantowitz",22,20
-"2021erie","Premier","Pool","Dantowitz | Kaplan","Old Line State","Josh Kaplan","Ben Dantowitz","Mark Borunda","James Swanson",21,15
-"2021erie","Premier","Pool","Dantowitz | Kaplan","Old Line State","Josh Kaplan","Ben Dantowitz","Mark Borunda","James Swanson",21,13
-"2021erie","Premier","Pool","Kinda Calculated","DOfus","Ryan Marino","Dan Abrams","Connor Prelich","Nate Hopkins",21,13
-"2021erie","Premier","Pool","Kinda Calculated","DOfus","Ryan Marino","Dan Abrams","Connor Prelich","Nate Hopkins",21,19
-"2021erie","Premier","Pool","Parallax","Boobies & doobies","Kyle Ackermann","Ryan Gross","Brandon Spector","Zac Vance",21,17
-"2021erie","Premier","Pool","Parallax","Boobies & doobies","Kyle Ackermann","Ryan Gross","Brandon Spector","Zac Vance",19,21
-"2021erie","Premier","Pool","Parallax","Boobies & doobies","Kyle Ackermann","Ryan Gross","Brandon Spector","Zac Vance",21,18
-"2021erie","Premier","Pool","Closed on Sundays","Volley Llamas","Ian Timan","Brooks Anderson","Joe Bondi","William Picone",13,21
-"2021erie","Premier","Pool","Closed on Sundays","Volley Llamas","Ian Timan","Brooks Anderson","Joe Bondi","William Picone",21,23
-"2021erie","Premier","Pool","Graham/Showalter","Dantowitz | Kaplan","Joel Graham","PJ Showalter","Josh Kaplan","Ben Dantowitz",21,15
-"2021erie","Premier","Pool","Graham/Showalter","Dantowitz | Kaplan","Joel Graham","PJ Showalter","Josh Kaplan","Ben Dantowitz",21,17
-"2021erie","Premier","Pool","Vascular","Old Line State","Noah Luskus","Gabe Finocchi","Mark Borunda","James Swanson",21,13
-"2021erie","Premier","Pool","Vascular","Old Line State","Noah Luskus","Gabe Finocchi","Mark Borunda","James Swanson",21,11
-"2021erie","Premier","Pool","Kinda Calculated","Closed on Sundays","Ryan Marino","Dan Abrams","Ian Timan","Brooks Anderson",21,14
-"2021erie","Premier","Pool","Kinda Calculated","Closed on Sundays","Ryan Marino","Dan Abrams","Ian Timan","Brooks Anderson",21,13
-"2021erie","Premier","Pool","Parallax","Volley Llamas","Kyle Ackermann","Ryan Gross","Joe Bondi","William Picone",17,21
-"2021erie","Premier","Pool","Parallax","Volley Llamas","Kyle Ackermann","Ryan Gross","Joe Bondi","William Picone",21,16
-"2021erie","Premier","Pool","Parallax","Volley Llamas","Kyle Ackermann","Ryan Gross","Joe Bondi","William Picone",25,23
-"2021erie","Premier","Pool","Boobies & doobies","DOfus","Brandon Spector","Zac Vance","Connor Prelich","Nate Hopkins",21,19
-"2021erie","Premier","Pool","Boobies & doobies","DOfus","Brandon Spector","Zac Vance","Connor Prelich","Nate Hopkins",17,21
-"2021erie","Premier","Pool","Boobies & doobies","DOfus","Brandon Spector","Zac Vance","Connor Prelich","Nate Hopkins",21,16
-"2021erie","Premier","Pool","Vascular","Dantowitz | Kaplan","Noah Luskus","Gabe Finocchi","Josh Kaplan","Ben Dantowitz",21,10
-"2021erie","Premier","Pool","Vascular","Dantowitz | Kaplan","Noah Luskus","Gabe Finocchi","Josh Kaplan","Ben Dantowitz",21,14
-"2021erie","Premier","Pool","Barrel Roll Bros","Old Line State","Derek Johnson","Ezra Dantowitz","Mark Borunda","James Swanson",21,18
-"2021erie","Premier","Pool","Barrel Roll Bros","Old Line State","Derek Johnson","Ezra Dantowitz","Mark Borunda","James Swanson",23,21
-"2021erie","Premier","Pool","Kinda Calculated","Boobies & doobies","Ryan Marino","Dan Abrams","Brandon Spector","Zac Vance",21,16
-"2021erie","Premier","Pool","Kinda Calculated","Boobies & doobies","Ryan Marino","Dan Abrams","Brandon Spector","Zac Vance",21,10
-"2021erie","Premier","Pool","Parallax","Closed on Sundays","Kyle Ackermann","Ryan Gross","Ian Timan","Brooks Anderson",21,15
-"2021erie","Premier","Pool","Parallax","Closed on Sundays","Kyle Ackermann","Ryan Gross","Ian Timan","Brooks Anderson",21,16
-"2021erie","Premier","Pool","DOfus","Volley Llamas","Connor Prelich","Nate Hopkins","Joe Bondi","William Picone",10,21
-"2021erie","Premier","Pool","DOfus","Volley Llamas","Connor Prelich","Nate Hopkins","Joe Bondi","William Picone",17,21
-"2021erie","Premier","Pool","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",16,21
-"2021erie","Premier","Pool","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",21,17
-"2021erie","Premier","Pool","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",26,28
-"2021erie","Premier","Pool","Dantowitz | Kaplan","Barrel Roll Bros","Josh Kaplan","Ben Dantowitz","Derek Johnson","Ezra Dantowitz",25,23
-"2021erie","Premier","Pool","Dantowitz | Kaplan","Barrel Roll Bros","Josh Kaplan","Ben Dantowitz","Derek Johnson","Ezra Dantowitz",21,18
-"2021erie","Premier","Pool","Kinda Calculated","Parallax","Ryan Marino","Dan Abrams","Kyle Ackermann","Ryan Gross",21,17
-"2021erie","Premier","Pool","Kinda Calculated","Parallax","Ryan Marino","Dan Abrams","Kyle Ackermann","Ryan Gross",19,21
-"2021erie","Premier","Pool","Kinda Calculated","Parallax","Ryan Marino","Dan Abrams","Kyle Ackermann","Ryan Gross",15,21
-"2021erie","Premier","Pool","Boobies & doobies","Volley Llamas","Brandon Spector","Zac Vance","Joe Bondi","William Picone",15,21
-"2021erie","Premier","Pool","Boobies & doobies","Volley Llamas","Brandon Spector","Zac Vance","Joe Bondi","William Picone",16,21
-"2021erie","Premier","Pool","Closed on Sundays","DOfus","Ian Timan","Brooks Anderson","Connor Prelich","Nate Hopkins",15,21
-"2021erie","Premier","Pool","Closed on Sundays","DOfus","Ian Timan","Brooks Anderson","Connor Prelich","Nate Hopkins",14,21
-"2021erie","Women's","Pool","Showalter/Pierson","Double Trouble","Katie Pierson","Ashley Gingerich Showalter","Mekenzie Heinle","Madalyn Heinle",21,11
-"2021erie","Women's","Pool","Showalter/Pierson","Double Trouble","Katie Pierson","Ashley Gingerich Showalter","Mekenzie Heinle","Madalyn Heinle",21,4
-"2021erie","Women's","Pool","Petrie/Lucas","Jazzy","Anna Lucas","Sarah Petrie","Bekah Smith","Melissa MacLean",21,13
-"2021erie","Women's","Pool","Petrie/Lucas","Jazzy","Anna Lucas","Sarah Petrie","Bekah Smith","Melissa MacLean",21,9
-"2021erie","Women's","Pool","Scrambled","Arachnets","Krista Shrock","Allie Foster","Claire Barnwell","Damaris Attanasio",21,4
-"2021erie","Women's","Pool","Scrambled","Arachnets","Krista Shrock","Allie Foster","Claire Barnwell","Damaris Attanasio",21,7
-"2021erie","Women's","Pool","Beast mode","Heroes in Disguise","Alea Kurtz","Kim Hostetler","lindsay metzger","Cece Rodriguez",21,6
-"2021erie","Women's","Pool","Beast mode","Heroes in Disguise","Alea Kurtz","Kim Hostetler","lindsay metzger","Cece Rodriguez",21,10
-"2021erie","Women's","Pool","Showalter/Pierson","Jazzy","Katie Pierson","Ashley Gingerich Showalter","Bekah Smith","Melissa MacLean",21,6
-"2021erie","Women's","Pool","Showalter/Pierson","Jazzy","Katie Pierson","Ashley Gingerich Showalter","Bekah Smith","Melissa MacLean",21,5
-"2021erie","Women's","Pool","Petrie/Lucas","Double Trouble","Anna Lucas","Sarah Petrie","Mekenzie Heinle","Madalyn Heinle",21,16
-"2021erie","Women's","Pool","Petrie/Lucas","Double Trouble","Anna Lucas","Sarah Petrie","Mekenzie Heinle","Madalyn Heinle",21,8
-"2021erie","Women's","Pool","Scrambled","Heroes in Disguise","Krista Shrock","Allie Foster","lindsay metzger","Cece Rodriguez",21,5
-"2021erie","Women's","Pool","Scrambled","Heroes in Disguise","Krista Shrock","Allie Foster","lindsay metzger","Cece Rodriguez",21,6
-"2021erie","Women's","Pool","Beast mode","Arachnets","Alea Kurtz","Kim Hostetler","Claire Barnwell","Damaris Attanasio",21,7
-"2021erie","Women's","Pool","Beast mode","Arachnets","Alea Kurtz","Kim Hostetler","Claire Barnwell","Damaris Attanasio",21,7
-"2021erie","Women's","Pool","Showalter/Pierson","Petrie/Lucas","Katie Pierson","Ashley Gingerich Showalter","Anna Lucas","Sarah Petrie",21,9
-"2021erie","Women's","Pool","Showalter/Pierson","Petrie/Lucas","Katie Pierson","Ashley Gingerich Showalter","Anna Lucas","Sarah Petrie",21,9
-"2021erie","Women's","Pool","Jazzy","Double Trouble","Bekah Smith","Melissa MacLean","Mekenzie Heinle","Madalyn Heinle",21,14
-"2021erie","Women's","Pool","Jazzy","Double Trouble","Bekah Smith","Melissa MacLean","Mekenzie Heinle","Madalyn Heinle",17,21
-"2021erie","Women's","Pool","Jazzy","Double Trouble","Bekah Smith","Melissa MacLean","Mekenzie Heinle","Madalyn Heinle",21,16
-"2021erie","Women's","Pool","Scrambled","Beast mode","Krista Shrock","Allie Foster","Alea Kurtz","Kim Hostetler",21,16
-"2021erie","Women's","Pool","Scrambled","Beast mode","Krista Shrock","Allie Foster","Alea Kurtz","Kim Hostetler",21,18
-"2021erie","Women's","Pool","Heroes in Disguise","Arachnets","lindsay metzger","Cece Rodriguez","Claire Barnwell","Damaris Attanasio",21,10
-"2021erie","Women's","Pool","Heroes in Disguise","Arachnets","lindsay metzger","Cece Rodriguez","Claire Barnwell","Damaris Attanasio",21,19
-"2021erie","Contender","Pool","Tweenie Weenie Nation","Down BAD ;(","Grant Klapwijk","Justin Barr","Ben Roy","Billy Neumeister",21,11
-"2021erie","Contender","Pool","The Silly Willies","Bait and Glitch","matthew finocchiaro","Antonio Riozzi","Owen Bass","Luke Nickel",10,21
-"2021erie","Contender","Pool","Grim","Ditto","Oliver Graham","Ian Graham","Jake Heidman","Jake Vladyka",12,21
-"2021erie","Contender","Pool","Brush Your Teeth","The Friend Bros","Kevin McClain","Dan Bonowski","Judah Friend","Josiah Friend",21,19
-"2021erie","Contender","Pool","Ike N Spike","Enough is Enough","Jenson Miller","Nathan Yoder","Harrison Yen","Michael Lin",21,15
-"2021erie","Contender","Pool","Batt/Calvin","The Spikeman Cometh","Joe Batt","Brenden Calvin","Jared Heidt","David Estes",21,13
-"2021erie","Contender","Pool","Pocket Rockets","Anomaly","Donald Fung","Nick Mesa","Bosif Johnson","Stephen Sweeney",21,14
-"2021erie","Contender","Pool","PowerLine","Dropshot Drip","Trey Felton","Jonathan Saysamone","Joel Lapp","Tyler Keener",13,21
-"2021erie","Contender","Pool","epic slammo","Lanky Smoove","Rob's Traveler","Tim Lacagnina","Micah Bouman","Max Fiebelkorn",17,21
-"2021erie","Contender","Pool","Slack","Italian Stallions","Isaac Freeman","Ian Slattery","Claudio Lampone","Jon Finocchiaro",21,8
-"2021erie","Contender","Pool","Runners Up","BING BONG","Skyler Sebring","Mitchell Grosteffon","Thomas Hoffman","Chris Hoffman",21,15
-"2021erie","Contender","Pool","UNK.","Synthetic","Christopher Richards","Daniel Rafalovitch","Jason Hironimus","Gavin Broekema",6,21
-"2021erie","Contender","Pool","Free On Mach","Molby Dick","Pat Marinich","Demitri Forand","Nathan Molby","Tommy Oddo",21,11
-"2021erie","Contender","Pool","Highpockets","Bread and Butter","Tommy Drake","Henry Pleszkoch","Rendall Weaver","Evan Yoder",21,12
-"2021erie","Contender","Pool","Flower Power","Boost","Kieran Rose","Nathan Stack","Charlie Freeman","Alex Luc",21,14
-"2021erie","Contender","Pool","WILSOOOOOON!!!!","2 Guys 1 Ball","Hudson Ford","Nathan Wilson","Soham Shah","Liam O'Reilly",21,3
-"2021erie","Contender","Pool","Wentlings","say spike rn","Trap Wentling","Jamin Wentling","Trenton Lam","Dominic Ferenac",10,21
-"2021erie","Contender","Pool","Tweenie Weenie Nation","Bait and Glitch","Grant Klapwijk","Justin Barr","Owen Bass","Luke Nickel",21,15
-"2021erie","Contender","Pool","The Silly Willies","Grim","matthew finocchiaro","Antonio Riozzi","Oliver Graham","Ian Graham",17,21
-"2021erie","Contender","Pool","Ditto","Down BAD ;(","Jake Heidman","Jake Vladyka","Ben Roy","Billy Neumeister",21,15
-"2021erie","Contender","Pool","Brush Your Teeth","Enough is Enough","Kevin McClain","Dan Bonowski","Harrison Yen","Michael Lin",21,11
-"2021erie","Contender","Pool","Ike N Spike","Batt/Calvin","Jenson Miller","Nathan Yoder","Joe Batt","Brenden Calvin",21,14
-"2021erie","Contender","Pool","The Spikeman Cometh","The Friend Bros","Jared Heidt","David Estes","Judah Friend","Josiah Friend",10,21
-"2021erie","Contender","Pool","Pocket Rockets","Dropshot Drip","Donald Fung","Nick Mesa","Joel Lapp","Tyler Keener",21,18
-"2021erie","Contender","Pool","PowerLine","epic slammo","Trey Felton","Jonathan Saysamone","Rob's Traveler","Tim Lacagnina",12,21
-"2021erie","Contender","Pool","Lanky Smoove","Anomaly","Micah Bouman","Max Fiebelkorn","Bosif Johnson","Stephen Sweeney",21,14
-"2021erie","Contender","Pool","Slack","BING BONG","Isaac Freeman","Ian Slattery","Thomas Hoffman","Chris Hoffman",21,9
-"2021erie","Contender","Pool","Runners Up","UNK.","Skyler Sebring","Mitchell Grosteffon","Christopher Richards","Daniel Rafalovitch",21,7
-"2021erie","Contender","Pool","Synthetic","Italian Stallions","Jason Hironimus","Gavin Broekema","Claudio Lampone","Jon Finocchiaro",21,4
-"2021erie","Contender","Pool","Free On Mach","Bread and Butter","Pat Marinich","Demitri Forand","Rendall Weaver","Evan Yoder",21,12
-"2021erie","Contender","Pool","Mussari","Molby Dick","Jeremy Mussari","Michael Mussari","Nathan Molby","Tommy Oddo",9,21
-"2021erie","Contender","Pool","Flower Power","2 Guys 1 Ball","Kieran Rose","Nathan Stack","Soham Shah","Liam O'Reilly",21,9
-"2021erie","Contender","Pool","WILSOOOOOON!!!!","Wentlings","Hudson Ford","Nathan Wilson","Trap Wentling","Jamin Wentling",21,9
-"2021erie","Contender","Pool","say spike rn","Boost","Trenton Lam","Dominic Ferenac","Charlie Freeman","Alex Luc",19,21
-"2021erie","Contender","Pool","Tweenie Weenie Nation","Ditto","Grant Klapwijk","Justin Barr","Jake Heidman","Jake Vladyka",21,13
-"2021erie","Contender","Pool","The Silly Willies","Down BAD ;(","matthew finocchiaro","Antonio Riozzi","Ben Roy","Billy Neumeister",10,21
-"2021erie","Contender","Pool","Grim","Bait and Glitch","Oliver Graham","Ian Graham","Owen Bass","Luke Nickel",12,21
-"2021erie","Contender","Pool","Brush Your Teeth","The Spikeman Cometh","Kevin McClain","Dan Bonowski","Jared Heidt","David Estes",21,6
-"2021erie","Contender","Pool","Ike N Spike","The Friend Bros","Jenson Miller","Nathan Yoder","Judah Friend","Josiah Friend",21,17
-"2021erie","Contender","Pool","Batt/Calvin","Enough is Enough","Joe Batt","Brenden Calvin","Harrison Yen","Michael Lin",10,21
-"2021erie","Contender","Pool","Pocket Rockets","Lanky Smoove","Donald Fung","Nick Mesa","Micah Bouman","Max Fiebelkorn",21,13
-"2021erie","Contender","Pool","PowerLine","Anomaly","Trey Felton","Jonathan Saysamone","Bosif Johnson","Stephen Sweeney",10,21
-"2021erie","Contender","Pool","epic slammo","Dropshot Drip","Rob's Traveler","Tim Lacagnina","Joel Lapp","Tyler Keener",15,21
-"2021erie","Contender","Pool","Slack","Synthetic","Isaac Freeman","Ian Slattery","Jason Hironimus","Gavin Broekema",19,21
-"2021erie","Contender","Pool","Runners Up","Italian Stallions","Skyler Sebring","Mitchell Grosteffon","Claudio Lampone","Jon Finocchiaro",21,9
-"2021erie","Contender","Pool","UNK.","BING BONG","Christopher Richards","Daniel Rafalovitch","Thomas Hoffman","Chris Hoffman",8,21
-"2021erie","Contender","Pool","Free On Mach","Mussari","Pat Marinich","Demitri Forand","Jeremy Mussari","Michael Mussari",21,15
-"2021erie","Contender","Pool","Highpockets","Molby Dick","Tommy Drake","Henry Pleszkoch","Nathan Molby","Tommy Oddo",21,17
-"2021erie","Contender","Pool","Flower Power","say spike rn","Kieran Rose","Nathan Stack","Trenton Lam","Dominic Ferenac",21,16
-"2021erie","Contender","Pool","WILSOOOOOON!!!!","Boost","Hudson Ford","Nathan Wilson","Charlie Freeman","Alex Luc",22,20
-"2021erie","Contender","Pool","Wentlings","2 Guys 1 Ball","Trap Wentling","Jamin Wentling","Soham Shah","Liam O'Reilly",21,12
-"2021erie","Contender","Pool","Tweenie Weenie Nation","Grim","Grant Klapwijk","Justin Barr","Oliver Graham","Ian Graham",21,11
-"2021erie","Contender","Pool","The Silly Willies","Ditto","matthew finocchiaro","Antonio Riozzi","Jake Heidman","Jake Vladyka",15,21
-"2021erie","Contender","Pool","Bait and Glitch","Down BAD ;(","Owen Bass","Luke Nickel","Ben Roy","Billy Neumeister",21,15
-"2021erie","Contender","Pool","Brush Your Teeth","Batt/Calvin","Kevin McClain","Dan Bonowski","Joe Batt","Brenden Calvin",21,7
-"2021erie","Contender","Pool","Ike N Spike","The Spikeman Cometh","Jenson Miller","Nathan Yoder","Jared Heidt","David Estes",21,11
-"2021erie","Contender","Pool","Enough is Enough","The Friend Bros","Harrison Yen","Michael Lin","Judah Friend","Josiah Friend",21,16
-"2021erie","Contender","Pool","Pocket Rockets","epic slammo","Donald Fung","Nick Mesa","Rob's Traveler","Tim Lacagnina",21,8
-"2021erie","Contender","Pool","PowerLine","Lanky Smoove","Trey Felton","Jonathan Saysamone","Micah Bouman","Max Fiebelkorn",7,21
-"2021erie","Contender","Pool","Dropshot Drip","Anomaly","Joel Lapp","Tyler Keener","Bosif Johnson","Stephen Sweeney",16,21
-"2021erie","Contender","Pool","Slack","UNK.","Isaac Freeman","Ian Slattery","Christopher Richards","Daniel Rafalovitch",21,6
-"2021erie","Contender","Pool","Runners Up","Synthetic","Skyler Sebring","Mitchell Grosteffon","Jason Hironimus","Gavin Broekema",21,18
-"2021erie","Contender","Pool","BING BONG","Italian Stallions","Thomas Hoffman","Chris Hoffman","Claudio Lampone","Jon Finocchiaro",21,19
-"2021erie","Contender","Pool","Highpockets","Mussari","Tommy Drake","Henry Pleszkoch","Jeremy Mussari","Michael Mussari",21,7
-"2021erie","Contender","Pool","Bread and Butter","Molby Dick","Rendall Weaver","Evan Yoder","Nathan Molby","Tommy Oddo",21,16
-"2021erie","Contender","Pool","Flower Power","Wentlings","Kieran Rose","Nathan Stack","Trap Wentling","Jamin Wentling",21,6
-"2021erie","Contender","Pool","WILSOOOOOON!!!!","say spike rn","Hudson Ford","Nathan Wilson","Trenton Lam","Dominic Ferenac",21,13
-"2021erie","Contender","Pool","2 Guys 1 Ball","Boost","Soham Shah","Liam O'Reilly","Charlie Freeman","Alex Luc",7,21
-"2021erie","Contender","Pool","Tweenie Weenie Nation","The Silly Willies","Grant Klapwijk","Justin Barr","matthew finocchiaro","Antonio Riozzi",21,10
-"2021erie","Contender","Pool","Grim","Down BAD ;(","Oliver Graham","Ian Graham","Ben Roy","Billy Neumeister",9,21
-"2021erie","Contender","Pool","Ditto","Bait and Glitch","Jake Heidman","Jake Vladyka","Owen Bass","Luke Nickel",20,22
-"2021erie","Contender","Pool","Brush Your Teeth","Ike N Spike","Kevin McClain","Dan Bonowski","Jenson Miller","Nathan Yoder",21,17
-"2021erie","Contender","Pool","Batt/Calvin","The Friend Bros","Joe Batt","Brenden Calvin","Judah Friend","Josiah Friend",12,21
-"2021erie","Contender","Pool","The Spikeman Cometh","Enough is Enough","Jared Heidt","David Estes","Harrison Yen","Michael Lin",12,21
-"2021erie","Contender","Pool","Pocket Rockets","PowerLine","Donald Fung","Nick Mesa","Trey Felton","Jonathan Saysamone",21,7
-"2021erie","Contender","Pool","epic slammo","Anomaly","Rob's Traveler","Tim Lacagnina","Bosif Johnson","Stephen Sweeney",21,17
-"2021erie","Contender","Pool","Lanky Smoove","Dropshot Drip","Micah Bouman","Max Fiebelkorn","Joel Lapp","Tyler Keener",21,18
-"2021erie","Contender","Pool","Slack","Runners Up","Isaac Freeman","Ian Slattery","Skyler Sebring","Mitchell Grosteffon",21,15
-"2021erie","Contender","Pool","UNK.","Italian Stallions","Christopher Richards","Daniel Rafalovitch","Claudio Lampone","Jon Finocchiaro",13,21
-"2021erie","Contender","Pool","Synthetic","BING BONG","Jason Hironimus","Gavin Broekema","Thomas Hoffman","Chris Hoffman",21,9
-"2021erie","Contender","Pool","Free On Mach","Highpockets","Pat Marinich","Demitri Forand","Tommy Drake","Henry Pleszkoch",21,16
-"2021erie","Contender","Pool","Mussari","Bread and Butter","Jeremy Mussari","Michael Mussari","Rendall Weaver","Evan Yoder",19,21
-"2021erie","Contender","Pool","Flower Power","WILSOOOOOON!!!!","Kieran Rose","Nathan Stack","Hudson Ford","Nathan Wilson",15,21
-"2021erie","Contender","Pool","Wentlings","Boost","Trap Wentling","Jamin Wentling","Charlie Freeman","Alex Luc",10,21
-"2021erie","Contender","Pool","say spike rn","2 Guys 1 Ball","Trenton Lam","Dominic Ferenac","Soham Shah","Liam O'Reilly",21,9
-"2021erie","Advanced","Pool","Bunn Boys","Super spike bros","Xander Bunn","Hayden Bunn","Jose Portillo","Steven Cano",21,16
-"2021erie","Advanced","Pool","Pitt playas","Wallace & Gromit","Justin Seth","Reiss Veltri","Nate Kisiel","Dean Woods",17,21
-"2021erie","Advanced","Pool","Go Wheaties!","Rusken Taters","Jeremy Oyer","David Jorgensen","Elijah Casper","Samuel Gerardi",21,16
-"2021erie","Advanced","Pool","Bachelor Roundnet","Salty Dogs 2","Sam Mccune","Evan Moeller","Nevan Schwab","Spencer Forrest",21,12
-"2021erie","Advanced","Pool","Trust the Process","LafSpikes","Daniel Cushwa","Dominic Nave","Michael Nelson","Ethan Gabay",12,21
-"2021erie","Advanced","Pool","Smackagawea","Jersey Shore Spikers","Vineet Madduru","James Huber","Jack Stemler","Luke Tira",12,21
-"2021erie","Advanced","Pool","Hits Don't Lie","Tilp Embezzlers","Evan Ray","Giaco Gentile","Carl Luzio","Bradley Kantor",18,21
-"2021erie","Advanced","Pool","Brains and the Brawn","Slightly Soaked","Dylan Rock","Adam Brawn","Christopher Toomey","Reece Eldridge",14,21
-"2021erie","Advanced","Pool","Prime time","Hebe_Murph","William Kuhns","Mikey Gaffney","Alex Murphy","Hunter Hebenthal",24,22
-"2021erie","Advanced","Pool","Twin Towers","The Echidna's","Jeb Kurtz","Matthew Muthler","Sullivan Keller","Henry Moffitt",22,20
-"2021erie","Advanced","Pool","Kira","Kant Serve","Isaac Baldridge","Luke Howard","Sid Aduri","Garrett Ley",10,21
-"2021erie","Advanced","Pool","Bunn Boys","Wallace & Gromit","Xander Bunn","Hayden Bunn","Nate Kisiel","Dean Woods",21,15
-"2021erie","Advanced","Pool","Pitt playas","Go Wheaties!","Justin Seth","Reiss Veltri","Jeremy Oyer","David Jorgensen",12,21
-"2021erie","Advanced","Pool","Rusken Taters","Super spike bros","Elijah Casper","Samuel Gerardi","Jose Portillo","Steven Cano",21,14
-"2021erie","Advanced","Pool","Bachelor Roundnet","LafSpikes","Sam Mccune","Evan Moeller","Michael Nelson","Ethan Gabay",23,25
-"2021erie","Advanced","Pool","Trust the Process","Smackagawea","Daniel Cushwa","Dominic Nave","Vineet Madduru","James Huber",17,21
-"2021erie","Advanced","Pool","Jersey Shore Spikers","Salty Dogs 2","Jack Stemler","Luke Tira","Nevan Schwab","Spencer Forrest",21,7
-"2021erie","Advanced","Pool","Hits Don't Lie","Slightly Soaked","Evan Ray","Giaco Gentile","Christopher Toomey","Reece Eldridge",19,21
-"2021erie","Advanced","Pool","Brains and the Brawn","Prime time","Dylan Rock","Adam Brawn","William Kuhns","Mikey Gaffney",18,21
-"2021erie","Advanced","Pool","Hebe_Murph","Tilp Embezzlers","Alex Murphy","Hunter Hebenthal","Carl Luzio","Bradley Kantor",21,11
-"2021erie","Advanced","Pool","Twin Towers","Kant Serve","Jeb Kurtz","Matthew Muthler","Sid Aduri","Garrett Ley",25,24
-"2021erie","Advanced","Pool","Love at First Spike","The Echidna's","Tyler Bernatovicz","Michael Protas","Sullivan Keller","Henry Moffitt",15,21
-"2021erie","Advanced","Pool","Bunn Boys","Rusken Taters","Xander Bunn","Hayden Bunn","Elijah Casper","Samuel Gerardi",21,19
-"2021erie","Advanced","Pool","Pitt playas","Super spike bros","Justin Seth","Reiss Veltri","Jose Portillo","Steven Cano",21,17
-"2021erie","Advanced","Pool","Go Wheaties!","Wallace & Gromit","Jeremy Oyer","David Jorgensen","Nate Kisiel","Dean Woods",21,18
-"2021erie","Advanced","Pool","Bachelor Roundnet","Jersey Shore Spikers","Sam Mccune","Evan Moeller","Jack Stemler","Luke Tira",15,21
-"2021erie","Advanced","Pool","Trust the Process","Salty Dogs 2","Daniel Cushwa","Dominic Nave","Nevan Schwab","Spencer Forrest",21,14
-"2021erie","Advanced","Pool","Smackagawea","LafSpikes","Vineet Madduru","James Huber","Michael Nelson","Ethan Gabay",9,21
-"2021erie","Advanced","Pool","Hits Don't Lie","Hebe_Murph","Evan Ray","Giaco Gentile","Alex Murphy","Hunter Hebenthal",17,21
-"2021erie","Advanced","Pool","Brains and the Brawn","Tilp Embezzlers","Dylan Rock","Adam Brawn","Carl Luzio","Bradley Kantor",21,14
-"2021erie","Advanced","Pool","Prime time","Slightly Soaked","William Kuhns","Mikey Gaffney","Christopher Toomey","Reece Eldridge",17,21
-"2021erie","Advanced","Pool","Twin Towers","Love at First Spike","Jeb Kurtz","Matthew Muthler","Tyler Bernatovicz","Michael Protas",21,10
-"2021erie","Advanced","Pool","Kira","The Echidna's","Isaac Baldridge","Luke Howard","Sullivan Keller","Henry Moffitt",13,21
-"2021erie","Advanced","Pool","Bunn Boys","Go Wheaties!","Xander Bunn","Hayden Bunn","Jeremy Oyer","David Jorgensen",21,19
-"2021erie","Advanced","Pool","Pitt playas","Rusken Taters","Justin Seth","Reiss Veltri","Elijah Casper","Samuel Gerardi",24,25
-"2021erie","Advanced","Pool","Wallace & Gromit","Super spike bros","Nate Kisiel","Dean Woods","Jose Portillo","Steven Cano",21,12
-"2021erie","Advanced","Pool","Bachelor Roundnet","Smackagawea","Sam Mccune","Evan Moeller","Vineet Madduru","James Huber",13,21
-"2021erie","Advanced","Pool","Trust the Process","Jersey Shore Spikers","Daniel Cushwa","Dominic Nave","Jack Stemler","Luke Tira",16,21
-"2021erie","Advanced","Pool","LafSpikes","Salty Dogs 2","Michael Nelson","Ethan Gabay","Nevan Schwab","Spencer Forrest",21,7
-"2021erie","Advanced","Pool","Hits Don't Lie","Prime time","Evan Ray","Giaco Gentile","William Kuhns","Mikey Gaffney",10,21
-"2021erie","Advanced","Pool","Brains and the Brawn","Hebe_Murph","Dylan Rock","Adam Brawn","Alex Murphy","Hunter Hebenthal",15,21
-"2021erie","Advanced","Pool","Slightly Soaked","Tilp Embezzlers","Christopher Toomey","Reece Eldridge","Carl Luzio","Bradley Kantor",21,13
-"2021erie","Advanced","Pool","Kira","Love at First Spike","Isaac Baldridge","Luke Howard","Tyler Bernatovicz","Michael Protas",21,14
-"2021erie","Advanced","Pool","Kant Serve","The Echidna's","Sid Aduri","Garrett Ley","Sullivan Keller","Henry Moffitt",19,21
-"2021erie","Advanced","Pool","Bunn Boys","Pitt playas","Xander Bunn","Hayden Bunn","Justin Seth","Reiss Veltri",22,20
-"2021erie","Advanced","Pool","Go Wheaties!","Super spike bros","Jeremy Oyer","David Jorgensen","Jose Portillo","Steven Cano",17,21
-"2021erie","Advanced","Pool","Rusken Taters","Wallace & Gromit","Elijah Casper","Samuel Gerardi","Nate Kisiel","Dean Woods",21,14
-"2021erie","Advanced","Pool","Bachelor Roundnet","Trust the Process","Sam Mccune","Evan Moeller","Daniel Cushwa","Dominic Nave",24,22
-"2021erie","Advanced","Pool","Smackagawea","Salty Dogs 2","Vineet Madduru","James Huber","Nevan Schwab","Spencer Forrest",21,10
-"2021erie","Advanced","Pool","Jersey Shore Spikers","LafSpikes","Jack Stemler","Luke Tira","Michael Nelson","Ethan Gabay",22,20
-"2021erie","Advanced","Pool","Hits Don't Lie","Brains and the Brawn","Evan Ray","Giaco Gentile","Dylan Rock","Adam Brawn",21,16
-"2021erie","Advanced","Pool","Prime time","Tilp Embezzlers","William Kuhns","Mikey Gaffney","Carl Luzio","Bradley Kantor",21,12
-"2021erie","Advanced","Pool","Hebe_Murph","Slightly Soaked","Alex Murphy","Hunter Hebenthal","Christopher Toomey","Reece Eldridge",17,21
-"2021erie","Advanced","Pool","Twin Towers","Kira","Jeb Kurtz","Matthew Muthler","Isaac Baldridge","Luke Howard",21,16
-"2021erie","Advanced","Pool","Love at First Spike","Kant Serve","Tyler Bernatovicz","Michael Protas","Sid Aduri","Garrett Ley",15,21
-"2021erie","Intermediate","Pool","Off the Boys","Greece balls","sam escourt","Patrick Fenlon","Matthew Borelli","Garon Galiotti",21,14
-"2021erie","Intermediate","Pool","Squatch gang","Pink Hat Betas","Clayton Banister","Brayden Miller","Kyle Smith","Tyler Campo",21,19
-"2021erie","Intermediate","Pool","Pier Luck","The Mafia","Quinton Jackson","Kolton Ritter","Vaughn Spencer","Dustin Edwards",21,18
-"2021erie","Intermediate","Pool","Doing Well","The Pink Ladies","Nick Woll","Luke Wells","Lexi Tofanelli","Jack Tofanelli",19,21
-"2021erie","Intermediate","Pool","This Team","Danger Zone","Jacob DeSchepper","Dylan Gaffey","John Abarca","Andrew Messinger",9,21
-"2021erie","Intermediate","Pool","Beeís Touch","That Team","Shayne Kraynyk","Donovan Brown","Taylor Barta","rickie piper",9,21
-"2021erie","Intermediate","Pool","Froot Loops","Banana Boys","Noah Kellogg","Dale Nower","Charles Kozy","Anthony Post",21,10
-"2021erie","Intermediate","Pool","Short and Shorter","Two Guys","Garrett Barth","Jacob Fusare","Konner Means","Jake VanScyoc",21,8
-"2021erie","Intermediate","Pool","Toad","Chubby Octopus","Bradley Castle","Tori Mueller","Liam Sulc","David Pribozie",9,21
-"2021erie","Intermediate","Pool","Udderly Ridiculous","Kurzweg/Kneidinger","Wesley Sprys","Dylan Noker","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","In It to Win It","Matching Big Juicy Butts","Matthew Schoenwald","Anna Beckler","Morgan Mitchell","Alex Hutter",17,21
-"2021erie","Intermediate","Pool","Blonde Banditos 2.0","Ace Royale","Alex Yurkovich","Jared Brewster","Jeremiah Friend","Joseph Friend",10,21
-"2021erie","Intermediate","Pool","Off the Boys","Pink Hat Betas","sam escourt","Patrick Fenlon","Kyle Smith","Tyler Campo",21,17
-"2021erie","Intermediate","Pool","Squatch gang","Come Zone","Clayton Banister","Brayden Miller","Dom Gralia","Theo Wahlenmayer",21,19
-"2021erie","Intermediate","Pool","The Mafia","Greece balls","Vaughn Spencer","Dustin Edwards","Matthew Borelli","Garon Galiotti",19,21
-"2021erie","Intermediate","Pool","Doing Well","Danger Zone","Nick Woll","Luke Wells","John Abarca","Andrew Messinger",7,21
-"2021erie","Intermediate","Pool","This Team","Snoop D-O Double G","Jacob DeSchepper","Dylan Gaffey","Alexander Stoj","Ashley Brawn",18,21
-"2021erie","Intermediate","Pool","That Team","The Pink Ladies","Taylor Barta","rickie piper","Lexi Tofanelli","Jack Tofanelli",21,16
-"2021erie","Intermediate","Pool","Froot Loops","Two Guys","Noah Kellogg","Dale Nower","Konner Means","Jake VanScyoc",20,22
-"2021erie","Intermediate","Pool","Short and Shorter","Spiketacular","Garrett Barth","Jacob Fusare","Stephen Schoenwald","Isaac Beckler",14,21
-"2021erie","Intermediate","Pool","Chubby Octopus","Banana Boys","Liam Sulc","David Pribozie","Charles Kozy","Anthony Post",21,4
-"2021erie","Intermediate","Pool","Udderly Ridiculous","Matching Big Juicy Butts","Wesley Sprys","Dylan Noker","Morgan Mitchell","Alex Hutter",22,20
-"2021erie","Intermediate","Pool","In It to Win It","Big & Bigger","Matthew Schoenwald","Anna Beckler","Tyler Gibbens","Jason Williams",21,16
-"2021erie","Intermediate","Pool","Ace Royale","Kurzweg/Kneidinger","Jeremiah Friend","Joseph Friend","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","Off the Boys","The Mafia","sam escourt","Patrick Fenlon","Vaughn Spencer","Dustin Edwards",21,16
-"2021erie","Intermediate","Pool","Squatch gang","Pier Luck","Clayton Banister","Brayden Miller","Quinton Jackson","Kolton Ritter",24,22
-"2021erie","Intermediate","Pool","Come Zone","Pink Hat Betas","Dom Gralia","Theo Wahlenmayer","Kyle Smith","Tyler Campo",21,12
-"2021erie","Intermediate","Pool","Doing Well","That Team","Nick Woll","Luke Wells","Taylor Barta","rickie piper",8,21
-"2021erie","Intermediate","Pool","This Team","Beeís Touch","Jacob DeSchepper","Dylan Gaffey","Shayne Kraynyk","Donovan Brown",21,15
-"2021erie","Intermediate","Pool","Snoop D-O Double G","Danger Zone","Alexander Stoj","Ashley Brawn","John Abarca","Andrew Messinger",7,21
-"2021erie","Intermediate","Pool","Froot Loops","Chubby Octopus","Noah Kellogg","Dale Nower","Liam Sulc","David Pribozie",18,21
-"2021erie","Intermediate","Pool","Short and Shorter","Toad","Garrett Barth","Jacob Fusare","Bradley Castle","Tori Mueller",21,2
-"2021erie","Intermediate","Pool","Spiketacular","Two Guys","Stephen Schoenwald","Isaac Beckler","Konner Means","Jake VanScyoc",21,8
-"2021erie","Intermediate","Pool","Udderly Ridiculous","Ace Royale","Wesley Sprys","Dylan Noker","Jeremiah Friend","Joseph Friend",18,21
-"2021erie","Intermediate","Pool","In It to Win It","Blonde Banditos 2.0","Matthew Schoenwald","Anna Beckler","Alex Yurkovich","Jared Brewster",21,8
-"2021erie","Intermediate","Pool","Big & Bigger","Matching Big Juicy Butts","Tyler Gibbens","Jason Williams","Morgan Mitchell","Alex Hutter",11,21
-"2021erie","Intermediate","Pool","Off the Boys","Come Zone","sam escourt","Patrick Fenlon","Dom Gralia","Theo Wahlenmayer",21,18
-"2021erie","Intermediate","Pool","Squatch gang","Greece balls","Clayton Banister","Brayden Miller","Matthew Borelli","Garon Galiotti",19,21
-"2021erie","Intermediate","Pool","Pier Luck","Pink Hat Betas","Quinton Jackson","Kolton Ritter","Kyle Smith","Tyler Campo",21,19
-"2021erie","Intermediate","Pool","Doing Well","Snoop D-O Double G","Nick Woll","Luke Wells","Alexander Stoj","Ashley Brawn",16,21
-"2021erie","Intermediate","Pool","This Team","The Pink Ladies","Jacob DeSchepper","Dylan Gaffey","Lexi Tofanelli","Jack Tofanelli",11,21
-"2021erie","Intermediate","Pool","Beeís Touch","Danger Zone","Shayne Kraynyk","Donovan Brown","John Abarca","Andrew Messinger",11,21
-"2021erie","Intermediate","Pool","Froot Loops","Spiketacular","Noah Kellogg","Dale Nower","Stephen Schoenwald","Isaac Beckler",7,21
-"2021erie","Intermediate","Pool","Short and Shorter","Banana Boys","Garrett Barth","Jacob Fusare","Charles Kozy","Anthony Post",21,8
-"2021erie","Intermediate","Pool","Toad","Two Guys","Bradley Castle","Tori Mueller","Konner Means","Jake VanScyoc",6,21
-"2021erie","Intermediate","Pool","Udderly Ridiculous","Big & Bigger","Wesley Sprys","Dylan Noker","Tyler Gibbens","Jason Williams",20,22
-"2021erie","Intermediate","Pool","In It to Win It","Kurzweg/Kneidinger","Matthew Schoenwald","Anna Beckler","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","Blonde Banditos 2.0","Matching Big Juicy Butts","Alex Yurkovich","Jared Brewster","Morgan Mitchell","Alex Hutter",15,21
-"2021erie","Intermediate","Pool","Squatch gang","The Mafia","Clayton Banister","Brayden Miller","Vaughn Spencer","Dustin Edwards",13,21
-"2021erie","Intermediate","Pool","Pier Luck","Come Zone","Quinton Jackson","Kolton Ritter","Dom Gralia","Theo Wahlenmayer",16,21
-"2021erie","Intermediate","Pool","Pink Hat Betas","Greece balls","Kyle Smith","Tyler Campo","Matthew Borelli","Garon Galiotti",6,21
-"2021erie","Intermediate","Pool","This Team","That Team","Jacob DeSchepper","Dylan Gaffey","Taylor Barta","rickie piper",16,21
-"2021erie","Intermediate","Pool","Beeís Touch","Snoop D-O Double G","Shayne Kraynyk","Donovan Brown","Alexander Stoj","Ashley Brawn",21,18
-"2021erie","Intermediate","Pool","Danger Zone","The Pink Ladies","John Abarca","Andrew Messinger","Lexi Tofanelli","Jack Tofanelli",21,11
-"2021erie","Intermediate","Pool","Short and Shorter","Chubby Octopus","Garrett Barth","Jacob Fusare","Liam Sulc","David Pribozie",21,15
-"2021erie","Intermediate","Pool","Toad","Spiketacular","Bradley Castle","Tori Mueller","Stephen Schoenwald","Isaac Beckler",5,21
-"2021erie","Intermediate","Pool","Two Guys","Banana Boys","Konner Means","Jake VanScyoc","Charles Kozy","Anthony Post",21,6
-"2021erie","Intermediate","Pool","In It to Win It","Ace Royale","Matthew Schoenwald","Anna Beckler","Jeremiah Friend","Joseph Friend",21,18
-"2021erie","Intermediate","Pool","Blonde Banditos 2.0","Big & Bigger","Alex Yurkovich","Jared Brewster","Tyler Gibbens","Jason Williams",14,21
-"2021erie","Intermediate","Pool","Matching Big Juicy Butts","Kurzweg/Kneidinger","Morgan Mitchell","Alex Hutter","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","Off the Boys","Pier Luck","sam escourt","Patrick Fenlon","Quinton Jackson","Kolton Ritter",21,13
-"2021erie","Intermediate","Pool","Come Zone","Greece balls","Dom Gralia","Theo Wahlenmayer","Matthew Borelli","Garon Galiotti",21,16
-"2021erie","Intermediate","Pool","The Mafia","Pink Hat Betas","Vaughn Spencer","Dustin Edwards","Kyle Smith","Tyler Campo",21,6
-"2021erie","Intermediate","Pool","Doing Well","Beeís Touch","Nick Woll","Luke Wells","Shayne Kraynyk","Donovan Brown",15,21
-"2021erie","Intermediate","Pool","Snoop D-O Double G","The Pink Ladies","Alexander Stoj","Ashley Brawn","Lexi Tofanelli","Jack Tofanelli",14,21
-"2021erie","Intermediate","Pool","That Team","Danger Zone","Taylor Barta","rickie piper","John Abarca","Andrew Messinger",12,21
-"2021erie","Intermediate","Pool","Froot Loops","Toad","Noah Kellogg","Dale Nower","Bradley Castle","Tori Mueller",21,11
-"2021erie","Intermediate","Pool","Spiketacular","Banana Boys","Stephen Schoenwald","Isaac Beckler","Charles Kozy","Anthony Post",21,4
-"2021erie","Intermediate","Pool","Chubby Octopus","Two Guys","Liam Sulc","David Pribozie","Konner Means","Jake VanScyoc",21,18
-"2021erie","Intermediate","Pool","Udderly Ridiculous","Blonde Banditos 2.0","Wesley Sprys","Dylan Noker","Alex Yurkovich","Jared Brewster",21,10
-"2021erie","Intermediate","Pool","Big & Bigger","Kurzweg/Kneidinger","Tyler Gibbens","Jason Williams","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","Ace Royale","Matching Big Juicy Butts","Jeremiah Friend","Joseph Friend","Morgan Mitchell","Alex Hutter",21,17
-"2021erie","Intermediate","Pool","Off the Boys","Squatch gang","sam escourt","Patrick Fenlon","Clayton Banister","Brayden Miller",21,7
-"2021erie","Intermediate","Pool","Pier Luck","Greece balls","Quinton Jackson","Kolton Ritter","Matthew Borelli","Garon Galiotti",21,16
-"2021erie","Intermediate","Pool","Come Zone","The Mafia","Dom Gralia","Theo Wahlenmayer","Vaughn Spencer","Dustin Edwards",23,21
-"2021erie","Intermediate","Pool","Doing Well","This Team","Nick Woll","Luke Wells","Jacob DeSchepper","Dylan Gaffey",9,21
-"2021erie","Intermediate","Pool","Beeís Touch","The Pink Ladies","Shayne Kraynyk","Donovan Brown","Lexi Tofanelli","Jack Tofanelli",19,21
-"2021erie","Intermediate","Pool","Snoop D-O Double G","That Team","Alexander Stoj","Ashley Brawn","Taylor Barta","rickie piper",15,21
-"2021erie","Intermediate","Pool","Froot Loops","Short and Shorter","Noah Kellogg","Dale Nower","Garrett Barth","Jacob Fusare",13,21
-"2021erie","Intermediate","Pool","Toad","Banana Boys","Bradley Castle","Tori Mueller","Charles Kozy","Anthony Post",21,17
-"2021erie","Intermediate","Pool","Spiketacular","Chubby Octopus","Stephen Schoenwald","Isaac Beckler","Liam Sulc","David Pribozie",21,9
-"2021erie","Intermediate","Pool","Udderly Ridiculous","In It to Win It","Wesley Sprys","Dylan Noker","Matthew Schoenwald","Anna Beckler",12,21
-"2021erie","Intermediate","Pool","Blonde Banditos 2.0","Kurzweg/Kneidinger","Alex Yurkovich","Jared Brewster","Theo Kurzweg","nathan kneidinger",21,15
-"2021erie","Intermediate","Pool","Big & Bigger","Ace Royale","Tyler Gibbens","Jason Williams","Jeremiah Friend","Joseph Friend",11,21
-"2021erie","Premier","Semi-finals","Vascular","Volley Llamas","Noah Luskus","Gabe Finocchi","Joe Bondi","William Picone",16,21
-"2021erie","Premier","Semi-finals","Vascular","Volley Llamas","Noah Luskus","Gabe Finocchi","Joe Bondi","William Picone",21,18
-"2021erie","Premier","Semi-finals","Vascular","Volley Llamas","Noah Luskus","Gabe Finocchi","Joe Bondi","William Picone",17,21
-"2021erie","Premier","Semi-finals","Parallax","Graham/Showalter","Kyle Ackermann","Ryan Gross","Joel Graham","PJ Showalter",21,18
-"2021erie","Premier","Semi-finals","Parallax","Graham/Showalter","Kyle Ackermann","Ryan Gross","Joel Graham","PJ Showalter",21,17
-"2021erie","Premier","1st place","Volley Llamas","Parallax","Joe Bondi","William Picone","Kyle Ackermann","Ryan Gross",17,21
-"2021erie","Premier","1st place","Volley Llamas","Parallax","Joe Bondi","William Picone","Kyle Ackermann","Ryan Gross",16,21
-"2021erie","Premier","3rd place","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",17,21
-"2021erie","Premier","3rd place","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",21,17
-"2021erie","Premier","3rd place","Graham/Showalter","Vascular","Joel Graham","PJ Showalter","Noah Luskus","Gabe Finocchi",17,21
-"2021erie","Premier","Quarter-finals","Barrel Roll Bros","DOfus","Derek Johnson","Ezra Dantowitz","Connor Prelich","Nate Hopkins",21,17
-"2021erie","Premier","Quarter-finals","Barrel Roll Bros","DOfus","Derek Johnson","Ezra Dantowitz","Connor Prelich","Nate Hopkins",21,19
-"2021erie","Premier","Quarter-finals","Dantowitz | Kaplan","Closed on Sundays","Josh Kaplan","Ben Dantowitz","Ian Timan","Brooks Anderson",17,21
-"2021erie","Premier","Quarter-finals","Dantowitz | Kaplan","Closed on Sundays","Josh Kaplan","Ben Dantowitz","Ian Timan","Brooks Anderson",22,20
-"2021erie","Premier","Quarter-finals","Dantowitz | Kaplan","Closed on Sundays","Josh Kaplan","Ben Dantowitz","Ian Timan","Brooks Anderson",21,18
-"2021erie","Premier","Quarter-finals","Boobies & doobies","Old Line State","Brandon Spector","Zac Vance","Mark Borunda","James Swanson",21,15
-"2021erie","Premier","Quarter-finals","Boobies & doobies","Old Line State","Brandon Spector","Zac Vance","Mark Borunda","James Swanson",27,26
-"2021erie","Premier","Semi-finals","Kinda Calculated","Barrel Roll Bros","Ryan Marino","Dan Abrams","Derek Johnson","Ezra Dantowitz",21,10
-"2021erie","Premier","Semi-finals","Kinda Calculated","Barrel Roll Bros","Ryan Marino","Dan Abrams","Derek Johnson","Ezra Dantowitz",21,19
-"2021erie","Premier","Semi-finals","Dantowitz | Kaplan","Boobies & doobies","Josh Kaplan","Ben Dantowitz","Brandon Spector","Zac Vance",18,21
-"2021erie","Premier","Semi-finals","Dantowitz | Kaplan","Boobies & doobies","Josh Kaplan","Ben Dantowitz","Brandon Spector","Zac Vance",20,22
-"2021erie","Premier","1st place","Kinda Calculated","Boobies & doobies","Ryan Marino","Dan Abrams","Brandon Spector","Zac Vance",21,16
-"2021erie","Premier","1st place","Kinda Calculated","Boobies & doobies","Ryan Marino","Dan Abrams","Brandon Spector","Zac Vance",21,19
-"2021erie","Premier","3rd place","Dantowitz | Kaplan","Barrel Roll Bros","Josh Kaplan","Ben Dantowitz","Derek Johnson","Ezra Dantowitz",19,21
-"2021erie","Premier","3rd place","Dantowitz | Kaplan","Barrel Roll Bros","Josh Kaplan","Ben Dantowitz","Derek Johnson","Ezra Dantowitz",21,18
-"2021erie","Premier","3rd place","Dantowitz | Kaplan","Barrel Roll Bros","Josh Kaplan","Ben Dantowitz","Derek Johnson","Ezra Dantowitz",21,23
-"2021erie","Premier","P5: Semi-finals","Old Line State","Closed on Sundays","Mark Borunda","James Swanson","Ian Timan","Brooks Anderson",NA,NA
-"2021erie","Premier","P5: Semi-finals","Old Line State","Closed on Sundays","Mark Borunda","James Swanson","Ian Timan","Brooks Anderson",NA,NA
-"2021erie","Premier","P5: Semi-finals","Old Line State","Closed on Sundays","Mark Borunda","James Swanson","Ian Timan","Brooks Anderson",NA,NA
-"2021erie","Women's","Quarter-finals","Showalter/Pierson","Arachnets","Katie Pierson","Ashley Gingerich Showalter","Claire Barnwell","Damaris Attanasio",21,7
-"2021erie","Women's","Quarter-finals","Showalter/Pierson","Arachnets","Katie Pierson","Ashley Gingerich Showalter","Claire Barnwell","Damaris Attanasio",21,9
-"2021erie","Women's","Quarter-finals","Petrie/Lucas","Jazzy","Anna Lucas","Sarah Petrie","Bekah Smith","Melissa MacLean",17,21
-"2021erie","Women's","Quarter-finals","Petrie/Lucas","Jazzy","Anna Lucas","Sarah Petrie","Bekah Smith","Melissa MacLean",24,23
-"2021erie","Women's","Quarter-finals","Petrie/Lucas","Jazzy","Anna Lucas","Sarah Petrie","Bekah Smith","Melissa MacLean",21,13
-"2021erie","Women's","Quarter-finals","Scrambled","Double Trouble","Krista Shrock","Allie Foster","Mekenzie Heinle","Madalyn Heinle",21,13
-"2021erie","Women's","Quarter-finals","Scrambled","Double Trouble","Krista Shrock","Allie Foster","Mekenzie Heinle","Madalyn Heinle",21,14
-"2021erie","Women's","Quarter-finals","Beast mode","Heroes in Disguise","Alea Kurtz","Kim Hostetler","lindsay metzger","Cece Rodriguez",21,9
-"2021erie","Women's","Quarter-finals","Beast mode","Heroes in Disguise","Alea Kurtz","Kim Hostetler","lindsay metzger","Cece Rodriguez",21,10
-"2021erie","Women's","Semi-finals","Showalter/Pierson","Petrie/Lucas","Katie Pierson","Ashley Gingerich Showalter","Anna Lucas","Sarah Petrie",21,11
-"2021erie","Women's","Semi-finals","Showalter/Pierson","Petrie/Lucas","Katie Pierson","Ashley Gingerich Showalter","Anna Lucas","Sarah Petrie",21,6
-"2021erie","Women's","Semi-finals","Scrambled","Beast mode","Krista Shrock","Allie Foster","Alea Kurtz","Kim Hostetler",21,17
-"2021erie","Women's","Semi-finals","Scrambled","Beast mode","Krista Shrock","Allie Foster","Alea Kurtz","Kim Hostetler",21,19
-"2021erie","Women's","1st place","Showalter/Pierson","Scrambled","Katie Pierson","Ashley Gingerich Showalter","Krista Shrock","Allie Foster",21,17
-"2021erie","Women's","1st place","Showalter/Pierson","Scrambled","Katie Pierson","Ashley Gingerich Showalter","Krista Shrock","Allie Foster",21,17
-"2021erie","Women's","3rd place","Beast mode","Petrie/Lucas","Alea Kurtz","Kim Hostetler","Anna Lucas","Sarah Petrie",21,6
-"2021erie","Women's","P5: Semi-finals","Jazzy","Arachnets","Bekah Smith","Melissa MacLean","Claire Barnwell","Damaris Attanasio",21,11
-"2021erie","Women's","P5: Semi-finals","Heroes in Disguise","Double Trouble","lindsay metzger","Cece Rodriguez","Mekenzie Heinle","Madalyn Heinle",0,2
-"2021erie","Women's","5th place","Jazzy","Double Trouble","Bekah Smith","Melissa MacLean","Mekenzie Heinle","Madalyn Heinle",NA,NA
-"2021erie","Women's","7th place","Heroes in Disguise","Arachnets","lindsay metzger","Cece Rodriguez","Claire Barnwell","Damaris Attanasio",NA,NA
-"2021erie","Contender","Round of 64","The Spikeman Cometh","PowerLine","Jared Heidt","David Estes","Trey Felton","Jonathan Saysamone",0,21
-"2021erie","Contender","Round of 64","The Spikeman Cometh","PowerLine","Jared Heidt","David Estes","Trey Felton","Jonathan Saysamone",0,21
-"2021erie","Contender","Round of 64","The Silly Willies","UNK.","matthew finocchiaro","Antonio Riozzi","Christopher Richards","Daniel Rafalovitch",21,9
-"2021erie","Contender","Round of 64","The Silly Willies","UNK.","matthew finocchiaro","Antonio Riozzi","Christopher Richards","Daniel Rafalovitch",21,15
-"2021erie","Contender","Round of 64","Mussari","2 Guys 1 Ball","Jeremy Mussari","Michael Mussari","Soham Shah","Liam O'Reilly",21,9
-"2021erie","Contender","Round of 64","Mussari","2 Guys 1 Ball","Jeremy Mussari","Michael Mussari","Soham Shah","Liam O'Reilly",21,7
-"2021erie","Contender","Round of 32","WILSOOOOOON!!!!","PowerLine","Hudson Ford","Nathan Wilson","Trey Felton","Jonathan Saysamone",21,6
-"2021erie","Contender","Round of 32","WILSOOOOOON!!!!","PowerLine","Hudson Ford","Nathan Wilson","Trey Felton","Jonathan Saysamone",21,9
-"2021erie","Contender","Round of 32","Enough is Enough","Bread and Butter","Harrison Yen","Michael Lin","Rendall Weaver","Evan Yoder",16,21
-"2021erie","Contender","Round of 32","Enough is Enough","Bread and Butter","Harrison Yen","Michael Lin","Rendall Weaver","Evan Yoder",10,21
-"2021erie","Contender","Round of 32","Flower Power","Molby Dick","Kieran Rose","Nathan Stack","Nathan Molby","Tommy Oddo",21,10
-"2021erie","Contender","Round of 32","Flower Power","Molby Dick","Kieran Rose","Nathan Stack","Nathan Molby","Tommy Oddo",21,17
-"2021erie","Contender","Round of 32","Runners Up","BING BONG","Skyler Sebring","Mitchell Grosteffon","Thomas Hoffman","Chris Hoffman",21,17
-"2021erie","Contender","Round of 32","Runners Up","BING BONG","Skyler Sebring","Mitchell Grosteffon","Thomas Hoffman","Chris Hoffman",21,13
-"2021erie","Contender","Round of 32","Tweenie Weenie Nation","Wentlings","Grant Klapwijk","Justin Barr","Trap Wentling","Jamin Wentling",21,11
-"2021erie","Contender","Round of 32","Tweenie Weenie Nation","Wentlings","Grant Klapwijk","Justin Barr","Trap Wentling","Jamin Wentling",21,14
-"2021erie","Contender","Round of 32","Highpockets","Dropshot Drip","Tommy Drake","Henry Pleszkoch","Joel Lapp","Tyler Keener",21,18
-"2021erie","Contender","Round of 32","Highpockets","Dropshot Drip","Tommy Drake","Henry Pleszkoch","Joel Lapp","Tyler Keener",17,21
-"2021erie","Contender","Round of 32","Highpockets","Dropshot Drip","Tommy Drake","Henry Pleszkoch","Joel Lapp","Tyler Keener",18,21
-"2021erie","Contender","Round of 32","Free On Mach","Italian Stallions","Pat Marinich","Demitri Forand","Claudio Lampone","Jon Finocchiaro",21,14
-"2021erie","Contender","Round of 32","Free On Mach","Italian Stallions","Pat Marinich","Demitri Forand","Claudio Lampone","Jon Finocchiaro",21,12
-"2021erie","Contender","Round of 32","Lanky Smoove","Down BAD ;(","Micah Bouman","Max Fiebelkorn","Ben Roy","Billy Neumeister",21,15
-"2021erie","Contender","Round of 32","Lanky Smoove","Down BAD ;(","Micah Bouman","Max Fiebelkorn","Ben Roy","Billy Neumeister",21,16
-"2021erie","Contender","Round of 32","Brush Your Teeth","The Silly Willies","Kevin McClain","Dan Bonowski","matthew finocchiaro","Antonio Riozzi",21,16
-"2021erie","Contender","Round of 32","Brush Your Teeth","The Silly Willies","Kevin McClain","Dan Bonowski","matthew finocchiaro","Antonio Riozzi",21,17
-"2021erie","Contender","Round of 32","Ditto","The Friend Bros","Jake Heidman","Jake Vladyka","Judah Friend","Josiah Friend",18,21
-"2021erie","Contender","Round of 32","Ditto","The Friend Bros","Jake Heidman","Jake Vladyka","Judah Friend","Josiah Friend",21,15
-"2021erie","Contender","Round of 32","Ditto","The Friend Bros","Jake Heidman","Jake Vladyka","Judah Friend","Josiah Friend",21,19
-"2021erie","Contender","Round of 32","Synthetic","Batt/Calvin","Jason Hironimus","Gavin Broekema","Joe Batt","Brenden Calvin",21,11
-"2021erie","Contender","Round of 32","Synthetic","Batt/Calvin","Jason Hironimus","Gavin Broekema","Joe Batt","Brenden Calvin",21,16
-"2021erie","Contender","Round of 32","Ike N Spike","epic slammo","Jenson Miller","Nathan Yoder","Rob's Traveler","Tim Lacagnina",18,21
-"2021erie","Contender","Round of 32","Ike N Spike","epic slammo","Jenson Miller","Nathan Yoder","Rob's Traveler","Tim Lacagnina",18,21
-"2021erie","Contender","Round of 32","Pocket Rockets","Mussari","Donald Fung","Nick Mesa","Jeremy Mussari","Michael Mussari",21,14
-"2021erie","Contender","Round of 32","Pocket Rockets","Mussari","Donald Fung","Nick Mesa","Jeremy Mussari","Michael Mussari",21,8
-"2021erie","Contender","Round of 32","Boost","say spike rn","Charlie Freeman","Alex Luc","Trenton Lam","Dominic Ferenac",21,19
-"2021erie","Contender","Round of 32","Boost","say spike rn","Charlie Freeman","Alex Luc","Trenton Lam","Dominic Ferenac",21,19
-"2021erie","Contender","Round of 32","Slack","Grim","Isaac Freeman","Ian Slattery","Oliver Graham","Ian Graham",21,11
-"2021erie","Contender","Round of 32","Slack","Grim","Isaac Freeman","Ian Slattery","Oliver Graham","Ian Graham",21,10
-"2021erie","Contender","Round of 32","Bait and Glitch","Anomaly","Owen Bass","Luke Nickel","Bosif Johnson","Stephen Sweeney",21,18
-"2021erie","Contender","Round of 32","Bait and Glitch","Anomaly","Owen Bass","Luke Nickel","Bosif Johnson","Stephen Sweeney",21,15
-"2021erie","Contender","Round of 16","WILSOOOOOON!!!!","Bread and Butter","Hudson Ford","Nathan Wilson","Rendall Weaver","Evan Yoder",21,18
-"2021erie","Contender","Round of 16","WILSOOOOOON!!!!","Bread and Butter","Hudson Ford","Nathan Wilson","Rendall Weaver","Evan Yoder",28,26
-"2021erie","Contender","Round of 16","Flower Power","Runners Up","Kieran Rose","Nathan Stack","Skyler Sebring","Mitchell Grosteffon",14,21
-"2021erie","Contender","Round of 16","Flower Power","Runners Up","Kieran Rose","Nathan Stack","Skyler Sebring","Mitchell Grosteffon",17,21
-"2021erie","Contender","Round of 16","Tweenie Weenie Nation","Dropshot Drip","Grant Klapwijk","Justin Barr","Joel Lapp","Tyler Keener",21,15
-"2021erie","Contender","Round of 16","Tweenie Weenie Nation","Dropshot Drip","Grant Klapwijk","Justin Barr","Joel Lapp","Tyler Keener",21,13
-"2021erie","Contender","Round of 16","Free On Mach","Lanky Smoove","Pat Marinich","Demitri Forand","Micah Bouman","Max Fiebelkorn",21,18
-"2021erie","Contender","Round of 16","Free On Mach","Lanky Smoove","Pat Marinich","Demitri Forand","Micah Bouman","Max Fiebelkorn",21,14
-"2021erie","Contender","Round of 16","Brush Your Teeth","Ditto","Kevin McClain","Dan Bonowski","Jake Heidman","Jake Vladyka",21,13
-"2021erie","Contender","Round of 16","Brush Your Teeth","Ditto","Kevin McClain","Dan Bonowski","Jake Heidman","Jake Vladyka",25,23
-"2021erie","Contender","Round of 16","Synthetic","epic slammo","Jason Hironimus","Gavin Broekema","Rob's Traveler","Tim Lacagnina",21,17
-"2021erie","Contender","Round of 16","Synthetic","epic slammo","Jason Hironimus","Gavin Broekema","Rob's Traveler","Tim Lacagnina",21,17
-"2021erie","Contender","Round of 16","Pocket Rockets","Boost","Donald Fung","Nick Mesa","Charlie Freeman","Alex Luc",21,13
-"2021erie","Contender","Round of 16","Pocket Rockets","Boost","Donald Fung","Nick Mesa","Charlie Freeman","Alex Luc",21,14
-"2021erie","Contender","Round of 16","Slack","Bait and Glitch","Isaac Freeman","Ian Slattery","Owen Bass","Luke Nickel",20,22
-"2021erie","Contender","Round of 16","Slack","Bait and Glitch","Isaac Freeman","Ian Slattery","Owen Bass","Luke Nickel",20,22
-"2021erie","Contender","Quarter-finals","WILSOOOOOON!!!!","Runners Up","Hudson Ford","Nathan Wilson","Skyler Sebring","Mitchell Grosteffon",10,21
-"2021erie","Contender","Quarter-finals","WILSOOOOOON!!!!","Runners Up","Hudson Ford","Nathan Wilson","Skyler Sebring","Mitchell Grosteffon",15,21
-"2021erie","Contender","Quarter-finals","Tweenie Weenie Nation","Free On Mach","Grant Klapwijk","Justin Barr","Pat Marinich","Demitri Forand",21,7
-"2021erie","Contender","Quarter-finals","Tweenie Weenie Nation","Free On Mach","Grant Klapwijk","Justin Barr","Pat Marinich","Demitri Forand",21,15
-"2021erie","Contender","Quarter-finals","Brush Your Teeth","Synthetic","Kevin McClain","Dan Bonowski","Jason Hironimus","Gavin Broekema",21,17
-"2021erie","Contender","Quarter-finals","Brush Your Teeth","Synthetic","Kevin McClain","Dan Bonowski","Jason Hironimus","Gavin Broekema",21,8
-"2021erie","Contender","Quarter-finals","Pocket Rockets","Bait and Glitch","Donald Fung","Nick Mesa","Owen Bass","Luke Nickel",21,17
-"2021erie","Contender","Quarter-finals","Pocket Rockets","Bait and Glitch","Donald Fung","Nick Mesa","Owen Bass","Luke Nickel",21,18
-"2021erie","Contender","Semi-finals","Runners Up","Tweenie Weenie Nation","Skyler Sebring","Mitchell Grosteffon","Grant Klapwijk","Justin Barr",0,21
-"2021erie","Contender","Semi-finals","Runners Up","Tweenie Weenie Nation","Skyler Sebring","Mitchell Grosteffon","Grant Klapwijk","Justin Barr",0,21
-"2021erie","Contender","Semi-finals","Brush Your Teeth","Pocket Rockets","Kevin McClain","Dan Bonowski","Donald Fung","Nick Mesa",17,21
-"2021erie","Contender","Semi-finals","Brush Your Teeth","Pocket Rockets","Kevin McClain","Dan Bonowski","Donald Fung","Nick Mesa",17,21
-"2021erie","Contender","1st place","Tweenie Weenie Nation","Pocket Rockets","Grant Klapwijk","Justin Barr","Donald Fung","Nick Mesa",21,17
-"2021erie","Contender","1st place","Tweenie Weenie Nation","Pocket Rockets","Grant Klapwijk","Justin Barr","Donald Fung","Nick Mesa",21,11
-"2021erie","Contender","3rd place","Brush Your Teeth","Runners Up","Kevin McClain","Dan Bonowski","Skyler Sebring","Mitchell Grosteffon",21,0
-"2021erie","Contender","3rd place","Brush Your Teeth","Runners Up","Kevin McClain","Dan Bonowski","Skyler Sebring","Mitchell Grosteffon",21,0
-"2021erie","Contender","P5: Semi-finals","Free On Mach","WILSOOOOOON!!!!","Pat Marinich","Demitri Forand","Hudson Ford","Nathan Wilson",NA,NA
-"2021erie","Contender","P5: Semi-finals","Bait and Glitch","Synthetic","Owen Bass","Luke Nickel","Jason Hironimus","Gavin Broekema",NA,NA
-"2021erie","Contender","P9: Quarter-finals","Flower Power","Bread and Butter","Kieran Rose","Nathan Stack","Rendall Weaver","Evan Yoder",NA,NA
-"2021erie","Contender","P9: Quarter-finals","Lanky Smoove","Dropshot Drip","Micah Bouman","Max Fiebelkorn","Joel Lapp","Tyler Keener",NA,NA
-"2021erie","Contender","P9: Quarter-finals","epic slammo","Ditto","Rob's Traveler","Tim Lacagnina","Jake Heidman","Jake Vladyka",NA,NA
-"2021erie","Contender","P9: Quarter-finals","Slack","Boost","Isaac Freeman","Ian Slattery","Charlie Freeman","Alex Luc",0,1
-"2021erie","Contender","P17: Round of 16","Enough is Enough","PowerLine","Harrison Yen","Michael Lin","Trey Felton","Jonathan Saysamone",21,10
-"2021erie","Contender","P17: Round of 16","BING BONG","Molby Dick","Thomas Hoffman","Chris Hoffman","Nathan Molby","Tommy Oddo",16,21
-"2021erie","Contender","P17: Round of 16","Highpockets","Wentlings","Tommy Drake","Henry Pleszkoch","Trap Wentling","Jamin Wentling",NA,NA
-"2021erie","Contender","P17: Round of 16","Down BAD ;(","Italian Stallions","Ben Roy","Billy Neumeister","Claudio Lampone","Jon Finocchiaro",19,21
-"2021erie","Contender","P17: Round of 16","The Friend Bros","The Silly Willies","Judah Friend","Josiah Friend","matthew finocchiaro","Antonio Riozzi",NA,NA
-"2021erie","Contender","P17: Round of 16","Ike N Spike","Batt/Calvin","Jenson Miller","Nathan Yoder","Joe Batt","Brenden Calvin",NA,NA
-"2021erie","Contender","P17: Round of 16","say spike rn","Mussari","Trenton Lam","Dominic Ferenac","Jeremy Mussari","Michael Mussari",NA,NA
-"2021erie","Contender","P17: Round of 16","Anomaly","Grim","Bosif Johnson","Stephen Sweeney","Oliver Graham","Ian Graham",21,13
-"2021erie","Contender","P17: Quarter-finals","Enough is Enough","Molby Dick","Harrison Yen","Michael Lin","Nathan Molby","Tommy Oddo",NA,NA
-"2021erie","Contender","P25: Quarter-finals","BING BONG","PowerLine","Thomas Hoffman","Chris Hoffman","Trey Felton","Jonathan Saysamone",NA,NA
-"2021erie","Contender","P33: Semi-finals","UNK.","2 Guys 1 Ball","Christopher Richards","Daniel Rafalovitch","Soham Shah","Liam O'Reilly",NA,NA
+Ôªøtourney,Division,Round,Team1,Team2,T1P1,T1P2,T2P1,T2P2,t1score,t2score
+2021erie,Premier,Pool,Graham/Showalter,Old Line State,Joel Graham,PJ Showalter,Mark Borunda,James Swanson,21,18
+2021erie,Premier,Pool,Graham/Showalter,Old Line State,Joel Graham,PJ Showalter,Mark Borunda,James Swanson,21,16
+2021erie,Premier,Pool,Vascular,Barrel Roll Bros,Noah Luskus,Gabe Finocchi,Derek Johnson,Ezra Dantowitz,21,10
+2021erie,Premier,Pool,Vascular,Barrel Roll Bros,Noah Luskus,Gabe Finocchi,Derek Johnson,Ezra Dantowitz,21,15
+2021erie,Premier,Pool,Kinda Calculated,Volley Llamas,Ryan Marino,Dan Abrams,Joe Bondi,William Picone,15,21
+2021erie,Premier,Pool,Kinda Calculated,Volley Llamas,Ryan Marino,Dan Abrams,Joe Bondi,William Picone,19,21
+2021erie,Premier,Pool,Parallax,DOfus,Kyle Ackermann,Ryan Gross,Connor Prelich,Nate Hopkins,21,9
+2021erie,Premier,Pool,Parallax,DOfus,Kyle Ackermann,Ryan Gross,Connor Prelich,Nate Hopkins,21,11
+2021erie,Premier,Pool,Boobies & doobies,Closed on Sundays,Brandon Spector,Zac Vance,Ian Timan,Brooks Anderson,21,11
+2021erie,Premier,Pool,Boobies & doobies,Closed on Sundays,Brandon Spector,Zac Vance,Ian Timan,Brooks Anderson,21,17
+2021erie,Premier,Pool,Graham/Showalter,Barrel Roll Bros,Joel Graham,PJ Showalter,Derek Johnson,Ezra Dantowitz,21,11
+2021erie,Premier,Pool,Graham/Showalter,Barrel Roll Bros,Joel Graham,PJ Showalter,Derek Johnson,Ezra Dantowitz,22,20
+2021erie,Premier,Pool,Dantowitz | Kaplan,Old Line State,Josh Kaplan,Ben Dantowitz,Mark Borunda,James Swanson,21,15
+2021erie,Premier,Pool,Dantowitz | Kaplan,Old Line State,Josh Kaplan,Ben Dantowitz,Mark Borunda,James Swanson,21,13
+2021erie,Premier,Pool,Kinda Calculated,DOfus,Ryan Marino,Dan Abrams,Connor Prelich,Nate Hopkins,21,13
+2021erie,Premier,Pool,Kinda Calculated,DOfus,Ryan Marino,Dan Abrams,Connor Prelich,Nate Hopkins,21,19
+2021erie,Premier,Pool,Parallax,Boobies & doobies,Kyle Ackermann,Ryan Gross,Brandon Spector,Zac Vance,21,17
+2021erie,Premier,Pool,Parallax,Boobies & doobies,Kyle Ackermann,Ryan Gross,Brandon Spector,Zac Vance,19,21
+2021erie,Premier,Pool,Parallax,Boobies & doobies,Kyle Ackermann,Ryan Gross,Brandon Spector,Zac Vance,21,18
+2021erie,Premier,Pool,Closed on Sundays,Volley Llamas,Ian Timan,Brooks Anderson,Joe Bondi,William Picone,13,21
+2021erie,Premier,Pool,Closed on Sundays,Volley Llamas,Ian Timan,Brooks Anderson,Joe Bondi,William Picone,21,23
+2021erie,Premier,Pool,Graham/Showalter,Dantowitz | Kaplan,Joel Graham,PJ Showalter,Josh Kaplan,Ben Dantowitz,21,15
+2021erie,Premier,Pool,Graham/Showalter,Dantowitz | Kaplan,Joel Graham,PJ Showalter,Josh Kaplan,Ben Dantowitz,21,17
+2021erie,Premier,Pool,Vascular,Old Line State,Noah Luskus,Gabe Finocchi,Mark Borunda,James Swanson,21,13
+2021erie,Premier,Pool,Vascular,Old Line State,Noah Luskus,Gabe Finocchi,Mark Borunda,James Swanson,21,11
+2021erie,Premier,Pool,Kinda Calculated,Closed on Sundays,Ryan Marino,Dan Abrams,Ian Timan,Brooks Anderson,21,14
+2021erie,Premier,Pool,Kinda Calculated,Closed on Sundays,Ryan Marino,Dan Abrams,Ian Timan,Brooks Anderson,21,13
+2021erie,Premier,Pool,Parallax,Volley Llamas,Kyle Ackermann,Ryan Gross,Joe Bondi,William Picone,17,21
+2021erie,Premier,Pool,Parallax,Volley Llamas,Kyle Ackermann,Ryan Gross,Joe Bondi,William Picone,21,16
+2021erie,Premier,Pool,Parallax,Volley Llamas,Kyle Ackermann,Ryan Gross,Joe Bondi,William Picone,25,23
+2021erie,Premier,Pool,Boobies & doobies,DOfus,Brandon Spector,Zac Vance,Connor Prelich,Nate Hopkins,21,19
+2021erie,Premier,Pool,Boobies & doobies,DOfus,Brandon Spector,Zac Vance,Connor Prelich,Nate Hopkins,17,21
+2021erie,Premier,Pool,Boobies & doobies,DOfus,Brandon Spector,Zac Vance,Connor Prelich,Nate Hopkins,21,16
+2021erie,Premier,Pool,Vascular,Dantowitz | Kaplan,Noah Luskus,Gabe Finocchi,Josh Kaplan,Ben Dantowitz,21,10
+2021erie,Premier,Pool,Vascular,Dantowitz | Kaplan,Noah Luskus,Gabe Finocchi,Josh Kaplan,Ben Dantowitz,21,14
+2021erie,Premier,Pool,Barrel Roll Bros,Old Line State,Derek Johnson,Ezra Dantowitz,Mark Borunda,James Swanson,21,18
+2021erie,Premier,Pool,Barrel Roll Bros,Old Line State,Derek Johnson,Ezra Dantowitz,Mark Borunda,James Swanson,23,21
+2021erie,Premier,Pool,Kinda Calculated,Boobies & doobies,Ryan Marino,Dan Abrams,Brandon Spector,Zac Vance,21,16
+2021erie,Premier,Pool,Kinda Calculated,Boobies & doobies,Ryan Marino,Dan Abrams,Brandon Spector,Zac Vance,21,10
+2021erie,Premier,Pool,Parallax,Closed on Sundays,Kyle Ackermann,Ryan Gross,Ian Timan,Brooks Anderson,21,15
+2021erie,Premier,Pool,Parallax,Closed on Sundays,Kyle Ackermann,Ryan Gross,Ian Timan,Brooks Anderson,21,16
+2021erie,Premier,Pool,DOfus,Volley Llamas,Connor Prelich,Nate Hopkins,Joe Bondi,William Picone,10,21
+2021erie,Premier,Pool,DOfus,Volley Llamas,Connor Prelich,Nate Hopkins,Joe Bondi,William Picone,17,21
+2021erie,Premier,Pool,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,16,21
+2021erie,Premier,Pool,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,21,17
+2021erie,Premier,Pool,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,26,28
+2021erie,Premier,Pool,Dantowitz | Kaplan,Barrel Roll Bros,Josh Kaplan,Ben Dantowitz,Derek Johnson,Ezra Dantowitz,25,23
+2021erie,Premier,Pool,Dantowitz | Kaplan,Barrel Roll Bros,Josh Kaplan,Ben Dantowitz,Derek Johnson,Ezra Dantowitz,21,18
+2021erie,Premier,Pool,Kinda Calculated,Parallax,Ryan Marino,Dan Abrams,Kyle Ackermann,Ryan Gross,21,17
+2021erie,Premier,Pool,Kinda Calculated,Parallax,Ryan Marino,Dan Abrams,Kyle Ackermann,Ryan Gross,19,21
+2021erie,Premier,Pool,Kinda Calculated,Parallax,Ryan Marino,Dan Abrams,Kyle Ackermann,Ryan Gross,15,21
+2021erie,Premier,Pool,Boobies & doobies,Volley Llamas,Brandon Spector,Zac Vance,Joe Bondi,William Picone,15,21
+2021erie,Premier,Pool,Boobies & doobies,Volley Llamas,Brandon Spector,Zac Vance,Joe Bondi,William Picone,16,21
+2021erie,Premier,Pool,Closed on Sundays,DOfus,Ian Timan,Brooks Anderson,Connor Prelich,Nate Hopkins,15,21
+2021erie,Premier,Pool,Closed on Sundays,DOfus,Ian Timan,Brooks Anderson,Connor Prelich,Nate Hopkins,14,21
+2021erie,Women's,Pool,Showalter/Pierson,Double Trouble,Katie Pierson,Ashley Gingerich Showalter,Mekenzie Heinle,Madalyn Heinle,21,11
+2021erie,Women's,Pool,Showalter/Pierson,Double Trouble,Katie Pierson,Ashley Gingerich Showalter,Mekenzie Heinle,Madalyn Heinle,21,4
+2021erie,Women's,Pool,Petrie/Lucas,Jazzy,Anna Lucas,Sarah Petrie,Bekah Smith,Melissa MacLean,21,13
+2021erie,Women's,Pool,Petrie/Lucas,Jazzy,Anna Lucas,Sarah Petrie,Bekah Smith,Melissa MacLean,21,9
+2021erie,Women's,Pool,Scrambled,Arachnets,Krista Shrock,Allie Foster,Claire Barnwell,Damaris Attanasio,21,4
+2021erie,Women's,Pool,Scrambled,Arachnets,Krista Shrock,Allie Foster,Claire Barnwell,Damaris Attanasio,21,7
+2021erie,Women's,Pool,Beast mode,Heroes in Disguise,Alea Kurtz,Kim Hostetler,lindsay metzger,Cece Rodriguez,21,6
+2021erie,Women's,Pool,Beast mode,Heroes in Disguise,Alea Kurtz,Kim Hostetler,lindsay metzger,Cece Rodriguez,21,10
+2021erie,Women's,Pool,Showalter/Pierson,Jazzy,Katie Pierson,Ashley Gingerich Showalter,Bekah Smith,Melissa MacLean,21,6
+2021erie,Women's,Pool,Showalter/Pierson,Jazzy,Katie Pierson,Ashley Gingerich Showalter,Bekah Smith,Melissa MacLean,21,5
+2021erie,Women's,Pool,Petrie/Lucas,Double Trouble,Anna Lucas,Sarah Petrie,Mekenzie Heinle,Madalyn Heinle,21,16
+2021erie,Women's,Pool,Petrie/Lucas,Double Trouble,Anna Lucas,Sarah Petrie,Mekenzie Heinle,Madalyn Heinle,21,8
+2021erie,Women's,Pool,Scrambled,Heroes in Disguise,Krista Shrock,Allie Foster,lindsay metzger,Cece Rodriguez,21,5
+2021erie,Women's,Pool,Scrambled,Heroes in Disguise,Krista Shrock,Allie Foster,lindsay metzger,Cece Rodriguez,21,6
+2021erie,Women's,Pool,Beast mode,Arachnets,Alea Kurtz,Kim Hostetler,Claire Barnwell,Damaris Attanasio,21,7
+2021erie,Women's,Pool,Beast mode,Arachnets,Alea Kurtz,Kim Hostetler,Claire Barnwell,Damaris Attanasio,21,7
+2021erie,Women's,Pool,Showalter/Pierson,Petrie/Lucas,Katie Pierson,Ashley Gingerich Showalter,Anna Lucas,Sarah Petrie,21,9
+2021erie,Women's,Pool,Showalter/Pierson,Petrie/Lucas,Katie Pierson,Ashley Gingerich Showalter,Anna Lucas,Sarah Petrie,21,9
+2021erie,Women's,Pool,Jazzy,Double Trouble,Bekah Smith,Melissa MacLean,Mekenzie Heinle,Madalyn Heinle,21,14
+2021erie,Women's,Pool,Jazzy,Double Trouble,Bekah Smith,Melissa MacLean,Mekenzie Heinle,Madalyn Heinle,17,21
+2021erie,Women's,Pool,Jazzy,Double Trouble,Bekah Smith,Melissa MacLean,Mekenzie Heinle,Madalyn Heinle,21,16
+2021erie,Women's,Pool,Scrambled,Beast mode,Krista Shrock,Allie Foster,Alea Kurtz,Kim Hostetler,21,16
+2021erie,Women's,Pool,Scrambled,Beast mode,Krista Shrock,Allie Foster,Alea Kurtz,Kim Hostetler,21,18
+2021erie,Women's,Pool,Heroes in Disguise,Arachnets,lindsay metzger,Cece Rodriguez,Claire Barnwell,Damaris Attanasio,21,10
+2021erie,Women's,Pool,Heroes in Disguise,Arachnets,lindsay metzger,Cece Rodriguez,Claire Barnwell,Damaris Attanasio,21,19
+2021erie,Contender,Pool,Tweenie Weenie Nation,Down BAD ;(,Grant Klapwijk,Justin Barr,Ben Roy,Billy Neumeister,21,11
+2021erie,Contender,Pool,The Silly Willies,Bait and Glitch,matthew finocchiaro,Antonio Riozzi,Owen Bass,Luke Nickel,10,21
+2021erie,Contender,Pool,Grim,Ditto,Oliver Graham,Ian Graham,Jake Heidman,Jake Vladyka,12,21
+2021erie,Contender,Pool,Brush Your Teeth,The Friend Bros,Kevin McClain,Dan Bonowski,Judah Friend,Josiah Friend,21,19
+2021erie,Contender,Pool,Ike N Spike,Enough is Enough,Jenson Miller,Nathan Yoder,Harrison Yen,Michael Lin,21,15
+2021erie,Contender,Pool,Batt/Calvin,The Spikeman Cometh,Joe Batt,Brenden Calvin,Jared Heidt,David Estes,21,13
+2021erie,Contender,Pool,Pocket Rockets,Anomaly,Donald Fung,Nick Mesa,Bosif Johnson,Stephen Sweeney,21,14
+2021erie,Contender,Pool,PowerLine,Dropshot Drip,Trey Felton,Jonathan Saysamone,Joel Lapp,Tyler Keener,13,21
+2021erie,Contender,Pool,epic slammo,Lanky Smoove,Rob's Traveler,Tim Lacagnina,Micah Bouman,Max Fiebelkorn,17,21
+2021erie,Contender,Pool,Slack,Italian Stallions,Isaac Freeman,Ian Slattery,Claudio Lampone,Jon Finocchiaro,21,8
+2021erie,Contender,Pool,Runners Up,BING BONG,Skyler Sebring,Mitchell Grosteffon,Thomas Hoffman,Chris Hoffman,21,15
+2021erie,Contender,Pool,UNK.,Synthetic,Christopher Richards,Daniel Rafalovitch,Jason Hironimus,Gavin Broekema,6,21
+2021erie,Contender,Pool,Free On Mach,Molby Dick,Pat Marinich,Demitri Forand,Nathan Molby,Tommy Oddo,21,11
+2021erie,Contender,Pool,Highpockets,Bread and Butter,Tommy Drake,Henry Pleszkoch,Rendall Weaver,Evan Yoder,21,12
+2021erie,Contender,Pool,Flower Power,Boost,Kieran Rose,Nathan Stack,Charlie Freeman,Alex Luc,21,14
+2021erie,Contender,Pool,WILSOOOOOON!!!!,2 Guys 1 Ball,Hudson Ford,Nathan Wilson,Soham Shah,Liam O'Reilly,21,3
+2021erie,Contender,Pool,Wentlings,say spike rn,Trap Wentling,Jamin Wentling,Trenton Lam,Dominic Ferenac,10,21
+2021erie,Contender,Pool,Tweenie Weenie Nation,Bait and Glitch,Grant Klapwijk,Justin Barr,Owen Bass,Luke Nickel,21,15
+2021erie,Contender,Pool,The Silly Willies,Grim,matthew finocchiaro,Antonio Riozzi,Oliver Graham,Ian Graham,17,21
+2021erie,Contender,Pool,Ditto,Down BAD ;(,Jake Heidman,Jake Vladyka,Ben Roy,Billy Neumeister,21,15
+2021erie,Contender,Pool,Brush Your Teeth,Enough is Enough,Kevin McClain,Dan Bonowski,Harrison Yen,Michael Lin,21,11
+2021erie,Contender,Pool,Ike N Spike,Batt/Calvin,Jenson Miller,Nathan Yoder,Joe Batt,Brenden Calvin,21,14
+2021erie,Contender,Pool,The Spikeman Cometh,The Friend Bros,Jared Heidt,David Estes,Judah Friend,Josiah Friend,10,21
+2021erie,Contender,Pool,Pocket Rockets,Dropshot Drip,Donald Fung,Nick Mesa,Joel Lapp,Tyler Keener,21,18
+2021erie,Contender,Pool,PowerLine,epic slammo,Trey Felton,Jonathan Saysamone,Rob's Traveler,Tim Lacagnina,12,21
+2021erie,Contender,Pool,Lanky Smoove,Anomaly,Micah Bouman,Max Fiebelkorn,Bosif Johnson,Stephen Sweeney,21,14
+2021erie,Contender,Pool,Slack,BING BONG,Isaac Freeman,Ian Slattery,Thomas Hoffman,Chris Hoffman,21,9
+2021erie,Contender,Pool,Runners Up,UNK.,Skyler Sebring,Mitchell Grosteffon,Christopher Richards,Daniel Rafalovitch,21,7
+2021erie,Contender,Pool,Synthetic,Italian Stallions,Jason Hironimus,Gavin Broekema,Claudio Lampone,Jon Finocchiaro,21,4
+2021erie,Contender,Pool,Free On Mach,Bread and Butter,Pat Marinich,Demitri Forand,Rendall Weaver,Evan Yoder,21,12
+2021erie,Contender,Pool,Mussari,Molby Dick,Jeremy Mussari,Michael Mussari,Nathan Molby,Tommy Oddo,9,21
+2021erie,Contender,Pool,Flower Power,2 Guys 1 Ball,Kieran Rose,Nathan Stack,Soham Shah,Liam O'Reilly,21,9
+2021erie,Contender,Pool,WILSOOOOOON!!!!,Wentlings,Hudson Ford,Nathan Wilson,Trap Wentling,Jamin Wentling,21,9
+2021erie,Contender,Pool,say spike rn,Boost,Trenton Lam,Dominic Ferenac,Charlie Freeman,Alex Luc,19,21
+2021erie,Contender,Pool,Tweenie Weenie Nation,Ditto,Grant Klapwijk,Justin Barr,Jake Heidman,Jake Vladyka,21,13
+2021erie,Contender,Pool,The Silly Willies,Down BAD ;(,matthew finocchiaro,Antonio Riozzi,Ben Roy,Billy Neumeister,10,21
+2021erie,Contender,Pool,Grim,Bait and Glitch,Oliver Graham,Ian Graham,Owen Bass,Luke Nickel,12,21
+2021erie,Contender,Pool,Brush Your Teeth,The Spikeman Cometh,Kevin McClain,Dan Bonowski,Jared Heidt,David Estes,21,6
+2021erie,Contender,Pool,Ike N Spike,The Friend Bros,Jenson Miller,Nathan Yoder,Judah Friend,Josiah Friend,21,17
+2021erie,Contender,Pool,Batt/Calvin,Enough is Enough,Joe Batt,Brenden Calvin,Harrison Yen,Michael Lin,10,21
+2021erie,Contender,Pool,Pocket Rockets,Lanky Smoove,Donald Fung,Nick Mesa,Micah Bouman,Max Fiebelkorn,21,13
+2021erie,Contender,Pool,PowerLine,Anomaly,Trey Felton,Jonathan Saysamone,Bosif Johnson,Stephen Sweeney,10,21
+2021erie,Contender,Pool,epic slammo,Dropshot Drip,Rob's Traveler,Tim Lacagnina,Joel Lapp,Tyler Keener,15,21
+2021erie,Contender,Pool,Slack,Synthetic,Isaac Freeman,Ian Slattery,Jason Hironimus,Gavin Broekema,19,21
+2021erie,Contender,Pool,Runners Up,Italian Stallions,Skyler Sebring,Mitchell Grosteffon,Claudio Lampone,Jon Finocchiaro,21,9
+2021erie,Contender,Pool,UNK.,BING BONG,Christopher Richards,Daniel Rafalovitch,Thomas Hoffman,Chris Hoffman,8,21
+2021erie,Contender,Pool,Free On Mach,Mussari,Pat Marinich,Demitri Forand,Jeremy Mussari,Michael Mussari,21,15
+2021erie,Contender,Pool,Highpockets,Molby Dick,Tommy Drake,Henry Pleszkoch,Nathan Molby,Tommy Oddo,21,17
+2021erie,Contender,Pool,Flower Power,say spike rn,Kieran Rose,Nathan Stack,Trenton Lam,Dominic Ferenac,21,16
+2021erie,Contender,Pool,WILSOOOOOON!!!!,Boost,Hudson Ford,Nathan Wilson,Charlie Freeman,Alex Luc,22,20
+2021erie,Contender,Pool,Wentlings,2 Guys 1 Ball,Trap Wentling,Jamin Wentling,Soham Shah,Liam O'Reilly,21,12
+2021erie,Contender,Pool,Tweenie Weenie Nation,Grim,Grant Klapwijk,Justin Barr,Oliver Graham,Ian Graham,21,11
+2021erie,Contender,Pool,The Silly Willies,Ditto,matthew finocchiaro,Antonio Riozzi,Jake Heidman,Jake Vladyka,15,21
+2021erie,Contender,Pool,Bait and Glitch,Down BAD ;(,Owen Bass,Luke Nickel,Ben Roy,Billy Neumeister,21,15
+2021erie,Contender,Pool,Brush Your Teeth,Batt/Calvin,Kevin McClain,Dan Bonowski,Joe Batt,Brenden Calvin,21,7
+2021erie,Contender,Pool,Ike N Spike,The Spikeman Cometh,Jenson Miller,Nathan Yoder,Jared Heidt,David Estes,21,11
+2021erie,Contender,Pool,Enough is Enough,The Friend Bros,Harrison Yen,Michael Lin,Judah Friend,Josiah Friend,21,16
+2021erie,Contender,Pool,Pocket Rockets,epic slammo,Donald Fung,Nick Mesa,Rob's Traveler,Tim Lacagnina,21,8
+2021erie,Contender,Pool,PowerLine,Lanky Smoove,Trey Felton,Jonathan Saysamone,Micah Bouman,Max Fiebelkorn,7,21
+2021erie,Contender,Pool,Dropshot Drip,Anomaly,Joel Lapp,Tyler Keener,Bosif Johnson,Stephen Sweeney,16,21
+2021erie,Contender,Pool,Slack,UNK.,Isaac Freeman,Ian Slattery,Christopher Richards,Daniel Rafalovitch,21,6
+2021erie,Contender,Pool,Runners Up,Synthetic,Skyler Sebring,Mitchell Grosteffon,Jason Hironimus,Gavin Broekema,21,18
+2021erie,Contender,Pool,BING BONG,Italian Stallions,Thomas Hoffman,Chris Hoffman,Claudio Lampone,Jon Finocchiaro,21,19
+2021erie,Contender,Pool,Highpockets,Mussari,Tommy Drake,Henry Pleszkoch,Jeremy Mussari,Michael Mussari,21,7
+2021erie,Contender,Pool,Bread and Butter,Molby Dick,Rendall Weaver,Evan Yoder,Nathan Molby,Tommy Oddo,21,16
+2021erie,Contender,Pool,Flower Power,Wentlings,Kieran Rose,Nathan Stack,Trap Wentling,Jamin Wentling,21,6
+2021erie,Contender,Pool,WILSOOOOOON!!!!,say spike rn,Hudson Ford,Nathan Wilson,Trenton Lam,Dominic Ferenac,21,13
+2021erie,Contender,Pool,2 Guys 1 Ball,Boost,Soham Shah,Liam O'Reilly,Charlie Freeman,Alex Luc,7,21
+2021erie,Contender,Pool,Tweenie Weenie Nation,The Silly Willies,Grant Klapwijk,Justin Barr,matthew finocchiaro,Antonio Riozzi,21,10
+2021erie,Contender,Pool,Grim,Down BAD ;(,Oliver Graham,Ian Graham,Ben Roy,Billy Neumeister,9,21
+2021erie,Contender,Pool,Ditto,Bait and Glitch,Jake Heidman,Jake Vladyka,Owen Bass,Luke Nickel,20,22
+2021erie,Contender,Pool,Brush Your Teeth,Ike N Spike,Kevin McClain,Dan Bonowski,Jenson Miller,Nathan Yoder,21,17
+2021erie,Contender,Pool,Batt/Calvin,The Friend Bros,Joe Batt,Brenden Calvin,Judah Friend,Josiah Friend,12,21
+2021erie,Contender,Pool,The Spikeman Cometh,Enough is Enough,Jared Heidt,David Estes,Harrison Yen,Michael Lin,12,21
+2021erie,Contender,Pool,Pocket Rockets,PowerLine,Donald Fung,Nick Mesa,Trey Felton,Jonathan Saysamone,21,7
+2021erie,Contender,Pool,epic slammo,Anomaly,Rob's Traveler,Tim Lacagnina,Bosif Johnson,Stephen Sweeney,21,17
+2021erie,Contender,Pool,Lanky Smoove,Dropshot Drip,Micah Bouman,Max Fiebelkorn,Joel Lapp,Tyler Keener,21,18
+2021erie,Contender,Pool,Slack,Runners Up,Isaac Freeman,Ian Slattery,Skyler Sebring,Mitchell Grosteffon,21,15
+2021erie,Contender,Pool,UNK.,Italian Stallions,Christopher Richards,Daniel Rafalovitch,Claudio Lampone,Jon Finocchiaro,13,21
+2021erie,Contender,Pool,Synthetic,BING BONG,Jason Hironimus,Gavin Broekema,Thomas Hoffman,Chris Hoffman,21,9
+2021erie,Contender,Pool,Free On Mach,Highpockets,Pat Marinich,Demitri Forand,Tommy Drake,Henry Pleszkoch,21,16
+2021erie,Contender,Pool,Mussari,Bread and Butter,Jeremy Mussari,Michael Mussari,Rendall Weaver,Evan Yoder,19,21
+2021erie,Contender,Pool,Flower Power,WILSOOOOOON!!!!,Kieran Rose,Nathan Stack,Hudson Ford,Nathan Wilson,15,21
+2021erie,Contender,Pool,Wentlings,Boost,Trap Wentling,Jamin Wentling,Charlie Freeman,Alex Luc,10,21
+2021erie,Contender,Pool,say spike rn,2 Guys 1 Ball,Trenton Lam,Dominic Ferenac,Soham Shah,Liam O'Reilly,21,9
+2021erie,Advanced,Pool,Bunn Boys,Super spike bros,Xander Bunn,Hayden Bunn,Jose Portillo,Steven Cano,21,16
+2021erie,Advanced,Pool,Pitt playas,Wallace & Gromit,Justin Seth,Reiss Veltri,Nate Kisiel,Dean Woods,17,21
+2021erie,Advanced,Pool,Go Wheaties!,Rusken Taters,Jeremy Oyer,David Jorgensen,Elijah Casper,Samuel Gerardi,21,16
+2021erie,Advanced,Pool,Bachelor Roundnet,Salty Dogs 2,Sam Mccune,Evan Moeller,Nevan Schwab,Spencer Forrest,21,12
+2021erie,Advanced,Pool,Trust the Process,LafSpikes,Daniel Cushwa,Dominic Nave,Michael Nelson,Ethan Gabay,12,21
+2021erie,Advanced,Pool,Smackagawea,Jersey Shore Spikers,Vineet Madduru,James Huber,Jack Stemler,Luke Tira,12,21
+2021erie,Advanced,Pool,Hits Don't Lie,Tilp Embezzlers,Evan Ray,Giaco Gentile,Carl Luzio,Bradley Kantor,18,21
+2021erie,Advanced,Pool,Brains and the Brawn,Slightly Soaked,Dylan Rock,Adam Brawn,Christopher Toomey,Reece Eldridge,14,21
+2021erie,Advanced,Pool,Prime time,Hebe_Murph,William Kuhns,Mikey Gaffney,Alex Murphy,Hunter Hebenthal,24,22
+2021erie,Advanced,Pool,Twin Towers,The Echidna's,Jeb Kurtz,Matthew Muthler,Sullivan Keller,Henry Moffitt,22,20
+2021erie,Advanced,Pool,Kira,Kant Serve,Isaac Baldridge,Luke Howard,Sid Aduri,Garrett Ley,10,21
+2021erie,Advanced,Pool,Bunn Boys,Wallace & Gromit,Xander Bunn,Hayden Bunn,Nate Kisiel,Dean Woods,21,15
+2021erie,Advanced,Pool,Pitt playas,Go Wheaties!,Justin Seth,Reiss Veltri,Jeremy Oyer,David Jorgensen,12,21
+2021erie,Advanced,Pool,Rusken Taters,Super spike bros,Elijah Casper,Samuel Gerardi,Jose Portillo,Steven Cano,21,14
+2021erie,Advanced,Pool,Bachelor Roundnet,LafSpikes,Sam Mccune,Evan Moeller,Michael Nelson,Ethan Gabay,23,25
+2021erie,Advanced,Pool,Trust the Process,Smackagawea,Daniel Cushwa,Dominic Nave,Vineet Madduru,James Huber,17,21
+2021erie,Advanced,Pool,Jersey Shore Spikers,Salty Dogs 2,Jack Stemler,Luke Tira,Nevan Schwab,Spencer Forrest,21,7
+2021erie,Advanced,Pool,Hits Don't Lie,Slightly Soaked,Evan Ray,Giaco Gentile,Christopher Toomey,Reece Eldridge,19,21
+2021erie,Advanced,Pool,Brains and the Brawn,Prime time,Dylan Rock,Adam Brawn,William Kuhns,Mikey Gaffney,18,21
+2021erie,Advanced,Pool,Hebe_Murph,Tilp Embezzlers,Alex Murphy,Hunter Hebenthal,Carl Luzio,Bradley Kantor,21,11
+2021erie,Advanced,Pool,Twin Towers,Kant Serve,Jeb Kurtz,Matthew Muthler,Sid Aduri,Garrett Ley,25,24
+2021erie,Advanced,Pool,Love at First Spike,The Echidna's,Tyler Bernatovicz,Michael Protas,Sullivan Keller,Henry Moffitt,15,21
+2021erie,Advanced,Pool,Bunn Boys,Rusken Taters,Xander Bunn,Hayden Bunn,Elijah Casper,Samuel Gerardi,21,19
+2021erie,Advanced,Pool,Pitt playas,Super spike bros,Justin Seth,Reiss Veltri,Jose Portillo,Steven Cano,21,17
+2021erie,Advanced,Pool,Go Wheaties!,Wallace & Gromit,Jeremy Oyer,David Jorgensen,Nate Kisiel,Dean Woods,21,18
+2021erie,Advanced,Pool,Bachelor Roundnet,Jersey Shore Spikers,Sam Mccune,Evan Moeller,Jack Stemler,Luke Tira,15,21
+2021erie,Advanced,Pool,Trust the Process,Salty Dogs 2,Daniel Cushwa,Dominic Nave,Nevan Schwab,Spencer Forrest,21,14
+2021erie,Advanced,Pool,Smackagawea,LafSpikes,Vineet Madduru,James Huber,Michael Nelson,Ethan Gabay,9,21
+2021erie,Advanced,Pool,Hits Don't Lie,Hebe_Murph,Evan Ray,Giaco Gentile,Alex Murphy,Hunter Hebenthal,17,21
+2021erie,Advanced,Pool,Brains and the Brawn,Tilp Embezzlers,Dylan Rock,Adam Brawn,Carl Luzio,Bradley Kantor,21,14
+2021erie,Advanced,Pool,Prime time,Slightly Soaked,William Kuhns,Mikey Gaffney,Christopher Toomey,Reece Eldridge,17,21
+2021erie,Advanced,Pool,Twin Towers,Love at First Spike,Jeb Kurtz,Matthew Muthler,Tyler Bernatovicz,Michael Protas,21,10
+2021erie,Advanced,Pool,Kira,The Echidna's,Isaac Baldridge,Luke Howard,Sullivan Keller,Henry Moffitt,13,21
+2021erie,Advanced,Pool,Bunn Boys,Go Wheaties!,Xander Bunn,Hayden Bunn,Jeremy Oyer,David Jorgensen,21,19
+2021erie,Advanced,Pool,Pitt playas,Rusken Taters,Justin Seth,Reiss Veltri,Elijah Casper,Samuel Gerardi,24,25
+2021erie,Advanced,Pool,Wallace & Gromit,Super spike bros,Nate Kisiel,Dean Woods,Jose Portillo,Steven Cano,21,12
+2021erie,Advanced,Pool,Bachelor Roundnet,Smackagawea,Sam Mccune,Evan Moeller,Vineet Madduru,James Huber,13,21
+2021erie,Advanced,Pool,Trust the Process,Jersey Shore Spikers,Daniel Cushwa,Dominic Nave,Jack Stemler,Luke Tira,16,21
+2021erie,Advanced,Pool,LafSpikes,Salty Dogs 2,Michael Nelson,Ethan Gabay,Nevan Schwab,Spencer Forrest,21,7
+2021erie,Advanced,Pool,Hits Don't Lie,Prime time,Evan Ray,Giaco Gentile,William Kuhns,Mikey Gaffney,10,21
+2021erie,Advanced,Pool,Brains and the Brawn,Hebe_Murph,Dylan Rock,Adam Brawn,Alex Murphy,Hunter Hebenthal,15,21
+2021erie,Advanced,Pool,Slightly Soaked,Tilp Embezzlers,Christopher Toomey,Reece Eldridge,Carl Luzio,Bradley Kantor,21,13
+2021erie,Advanced,Pool,Kira,Love at First Spike,Isaac Baldridge,Luke Howard,Tyler Bernatovicz,Michael Protas,21,14
+2021erie,Advanced,Pool,Kant Serve,The Echidna's,Sid Aduri,Garrett Ley,Sullivan Keller,Henry Moffitt,19,21
+2021erie,Advanced,Pool,Bunn Boys,Pitt playas,Xander Bunn,Hayden Bunn,Justin Seth,Reiss Veltri,22,20
+2021erie,Advanced,Pool,Go Wheaties!,Super spike bros,Jeremy Oyer,David Jorgensen,Jose Portillo,Steven Cano,17,21
+2021erie,Advanced,Pool,Rusken Taters,Wallace & Gromit,Elijah Casper,Samuel Gerardi,Nate Kisiel,Dean Woods,21,14
+2021erie,Advanced,Pool,Bachelor Roundnet,Trust the Process,Sam Mccune,Evan Moeller,Daniel Cushwa,Dominic Nave,24,22
+2021erie,Advanced,Pool,Smackagawea,Salty Dogs 2,Vineet Madduru,James Huber,Nevan Schwab,Spencer Forrest,21,10
+2021erie,Advanced,Pool,Jersey Shore Spikers,LafSpikes,Jack Stemler,Luke Tira,Michael Nelson,Ethan Gabay,22,20
+2021erie,Advanced,Pool,Hits Don't Lie,Brains and the Brawn,Evan Ray,Giaco Gentile,Dylan Rock,Adam Brawn,21,16
+2021erie,Advanced,Pool,Prime time,Tilp Embezzlers,William Kuhns,Mikey Gaffney,Carl Luzio,Bradley Kantor,21,12
+2021erie,Advanced,Pool,Hebe_Murph,Slightly Soaked,Alex Murphy,Hunter Hebenthal,Christopher Toomey,Reece Eldridge,17,21
+2021erie,Advanced,Pool,Twin Towers,Kira,Jeb Kurtz,Matthew Muthler,Isaac Baldridge,Luke Howard,21,16
+2021erie,Advanced,Pool,Love at First Spike,Kant Serve,Tyler Bernatovicz,Michael Protas,Sid Aduri,Garrett Ley,15,21
+2021erie,Intermediate,Pool,Off the Boys,Greece balls,sam escourt,Patrick Fenlon,Matthew Borelli,Garon Galiotti,21,14
+2021erie,Intermediate,Pool,Squatch gang,Pink Hat Betas,Clayton Banister,Brayden Miller,Kyle Smith,Tyler Campo,21,19
+2021erie,Intermediate,Pool,Pier Luck,The Mafia,Quinton Jackson,Kolton Ritter,Vaughn Spencer,Dustin Edwards,21,18
+2021erie,Intermediate,Pool,Doing Well,The Pink Ladies,Nick Woll,Luke Wells,Lexi Tofanelli,Jack Tofanelli,19,21
+2021erie,Intermediate,Pool,This Team,Danger Zone,Jacob DeSchepper,Dylan Gaffey,John Abarca,Andrew Messinger,9,21
+2021erie,Intermediate,Pool,Bee√≠s Touch,That Team,Shayne Kraynyk,Donovan Brown,Taylor Barta,rickie piper,9,21
+2021erie,Intermediate,Pool,Froot Loops,Banana Boys,Noah Kellogg,Dale Nower,Charles Kozy,Anthony Post,21,10
+2021erie,Intermediate,Pool,Short and Shorter,Two Guys,Garrett Barth,Jacob Fusare,Konner Means,Jake VanScyoc,21,8
+2021erie,Intermediate,Pool,Toad,Chubby Octopus,Bradley Castle,Tori Mueller,Liam Sulc,David Pribozie,9,21
+2021erie,Intermediate,Pool,Udderly Ridiculous,Kurzweg/Kneidinger,Wesley Sprys,Dylan Noker,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,In It to Win It,Matching Big Juicy Butts,Matthew Schoenwald,Anna Beckler,Morgan Mitchell,Alex Hutter,17,21
+2021erie,Intermediate,Pool,Blonde Banditos 2.0,Ace Royale,Alex Yurkovich,Jared Brewster,Jeremiah Friend,Joseph Friend,10,21
+2021erie,Intermediate,Pool,Off the Boys,Pink Hat Betas,sam escourt,Patrick Fenlon,Kyle Smith,Tyler Campo,21,17
+2021erie,Intermediate,Pool,Squatch gang,Come Zone,Clayton Banister,Brayden Miller,Dom Gralia,Theo Wahlenmayer,21,19
+2021erie,Intermediate,Pool,The Mafia,Greece balls,Vaughn Spencer,Dustin Edwards,Matthew Borelli,Garon Galiotti,19,21
+2021erie,Intermediate,Pool,Doing Well,Danger Zone,Nick Woll,Luke Wells,John Abarca,Andrew Messinger,7,21
+2021erie,Intermediate,Pool,This Team,Snoop D-O Double G,Jacob DeSchepper,Dylan Gaffey,Alexander Stoj,Ashley Brawn,18,21
+2021erie,Intermediate,Pool,That Team,The Pink Ladies,Taylor Barta,rickie piper,Lexi Tofanelli,Jack Tofanelli,21,16
+2021erie,Intermediate,Pool,Froot Loops,Two Guys,Noah Kellogg,Dale Nower,Konner Means,Jake VanScyoc,20,22
+2021erie,Intermediate,Pool,Short and Shorter,Spiketacular,Garrett Barth,Jacob Fusare,Stephen Schoenwald,Isaac Beckler,14,21
+2021erie,Intermediate,Pool,Chubby Octopus,Banana Boys,Liam Sulc,David Pribozie,Charles Kozy,Anthony Post,21,4
+2021erie,Intermediate,Pool,Udderly Ridiculous,Matching Big Juicy Butts,Wesley Sprys,Dylan Noker,Morgan Mitchell,Alex Hutter,22,20
+2021erie,Intermediate,Pool,In It to Win It,Big & Bigger,Matthew Schoenwald,Anna Beckler,Tyler Gibbens,Jason Williams,21,16
+2021erie,Intermediate,Pool,Ace Royale,Kurzweg/Kneidinger,Jeremiah Friend,Joseph Friend,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,Off the Boys,The Mafia,sam escourt,Patrick Fenlon,Vaughn Spencer,Dustin Edwards,21,16
+2021erie,Intermediate,Pool,Squatch gang,Pier Luck,Clayton Banister,Brayden Miller,Quinton Jackson,Kolton Ritter,24,22
+2021erie,Intermediate,Pool,Come Zone,Pink Hat Betas,Dom Gralia,Theo Wahlenmayer,Kyle Smith,Tyler Campo,21,12
+2021erie,Intermediate,Pool,Doing Well,That Team,Nick Woll,Luke Wells,Taylor Barta,rickie piper,8,21
+2021erie,Intermediate,Pool,This Team,Bee√≠s Touch,Jacob DeSchepper,Dylan Gaffey,Shayne Kraynyk,Donovan Brown,21,15
+2021erie,Intermediate,Pool,Snoop D-O Double G,Danger Zone,Alexander Stoj,Ashley Brawn,John Abarca,Andrew Messinger,7,21
+2021erie,Intermediate,Pool,Froot Loops,Chubby Octopus,Noah Kellogg,Dale Nower,Liam Sulc,David Pribozie,18,21
+2021erie,Intermediate,Pool,Short and Shorter,Toad,Garrett Barth,Jacob Fusare,Bradley Castle,Tori Mueller,21,2
+2021erie,Intermediate,Pool,Spiketacular,Two Guys,Stephen Schoenwald,Isaac Beckler,Konner Means,Jake VanScyoc,21,8
+2021erie,Intermediate,Pool,Udderly Ridiculous,Ace Royale,Wesley Sprys,Dylan Noker,Jeremiah Friend,Joseph Friend,18,21
+2021erie,Intermediate,Pool,In It to Win It,Blonde Banditos 2.0,Matthew Schoenwald,Anna Beckler,Alex Yurkovich,Jared Brewster,21,8
+2021erie,Intermediate,Pool,Big & Bigger,Matching Big Juicy Butts,Tyler Gibbens,Jason Williams,Morgan Mitchell,Alex Hutter,11,21
+2021erie,Intermediate,Pool,Off the Boys,Come Zone,sam escourt,Patrick Fenlon,Dom Gralia,Theo Wahlenmayer,21,18
+2021erie,Intermediate,Pool,Squatch gang,Greece balls,Clayton Banister,Brayden Miller,Matthew Borelli,Garon Galiotti,19,21
+2021erie,Intermediate,Pool,Pier Luck,Pink Hat Betas,Quinton Jackson,Kolton Ritter,Kyle Smith,Tyler Campo,21,19
+2021erie,Intermediate,Pool,Doing Well,Snoop D-O Double G,Nick Woll,Luke Wells,Alexander Stoj,Ashley Brawn,16,21
+2021erie,Intermediate,Pool,This Team,The Pink Ladies,Jacob DeSchepper,Dylan Gaffey,Lexi Tofanelli,Jack Tofanelli,11,21
+2021erie,Intermediate,Pool,Bee√≠s Touch,Danger Zone,Shayne Kraynyk,Donovan Brown,John Abarca,Andrew Messinger,11,21
+2021erie,Intermediate,Pool,Froot Loops,Spiketacular,Noah Kellogg,Dale Nower,Stephen Schoenwald,Isaac Beckler,7,21
+2021erie,Intermediate,Pool,Short and Shorter,Banana Boys,Garrett Barth,Jacob Fusare,Charles Kozy,Anthony Post,21,8
+2021erie,Intermediate,Pool,Toad,Two Guys,Bradley Castle,Tori Mueller,Konner Means,Jake VanScyoc,6,21
+2021erie,Intermediate,Pool,Udderly Ridiculous,Big & Bigger,Wesley Sprys,Dylan Noker,Tyler Gibbens,Jason Williams,20,22
+2021erie,Intermediate,Pool,In It to Win It,Kurzweg/Kneidinger,Matthew Schoenwald,Anna Beckler,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,Blonde Banditos 2.0,Matching Big Juicy Butts,Alex Yurkovich,Jared Brewster,Morgan Mitchell,Alex Hutter,15,21
+2021erie,Intermediate,Pool,Squatch gang,The Mafia,Clayton Banister,Brayden Miller,Vaughn Spencer,Dustin Edwards,13,21
+2021erie,Intermediate,Pool,Pier Luck,Come Zone,Quinton Jackson,Kolton Ritter,Dom Gralia,Theo Wahlenmayer,16,21
+2021erie,Intermediate,Pool,Pink Hat Betas,Greece balls,Kyle Smith,Tyler Campo,Matthew Borelli,Garon Galiotti,6,21
+2021erie,Intermediate,Pool,This Team,That Team,Jacob DeSchepper,Dylan Gaffey,Taylor Barta,rickie piper,16,21
+2021erie,Intermediate,Pool,Bee√≠s Touch,Snoop D-O Double G,Shayne Kraynyk,Donovan Brown,Alexander Stoj,Ashley Brawn,21,18
+2021erie,Intermediate,Pool,Danger Zone,The Pink Ladies,John Abarca,Andrew Messinger,Lexi Tofanelli,Jack Tofanelli,21,11
+2021erie,Intermediate,Pool,Short and Shorter,Chubby Octopus,Garrett Barth,Jacob Fusare,Liam Sulc,David Pribozie,21,15
+2021erie,Intermediate,Pool,Toad,Spiketacular,Bradley Castle,Tori Mueller,Stephen Schoenwald,Isaac Beckler,5,21
+2021erie,Intermediate,Pool,Two Guys,Banana Boys,Konner Means,Jake VanScyoc,Charles Kozy,Anthony Post,21,6
+2021erie,Intermediate,Pool,In It to Win It,Ace Royale,Matthew Schoenwald,Anna Beckler,Jeremiah Friend,Joseph Friend,21,18
+2021erie,Intermediate,Pool,Blonde Banditos 2.0,Big & Bigger,Alex Yurkovich,Jared Brewster,Tyler Gibbens,Jason Williams,14,21
+2021erie,Intermediate,Pool,Matching Big Juicy Butts,Kurzweg/Kneidinger,Morgan Mitchell,Alex Hutter,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,Off the Boys,Pier Luck,sam escourt,Patrick Fenlon,Quinton Jackson,Kolton Ritter,21,13
+2021erie,Intermediate,Pool,Come Zone,Greece balls,Dom Gralia,Theo Wahlenmayer,Matthew Borelli,Garon Galiotti,21,16
+2021erie,Intermediate,Pool,The Mafia,Pink Hat Betas,Vaughn Spencer,Dustin Edwards,Kyle Smith,Tyler Campo,21,6
+2021erie,Intermediate,Pool,Doing Well,Bee√≠s Touch,Nick Woll,Luke Wells,Shayne Kraynyk,Donovan Brown,15,21
+2021erie,Intermediate,Pool,Snoop D-O Double G,The Pink Ladies,Alexander Stoj,Ashley Brawn,Lexi Tofanelli,Jack Tofanelli,14,21
+2021erie,Intermediate,Pool,That Team,Danger Zone,Taylor Barta,rickie piper,John Abarca,Andrew Messinger,12,21
+2021erie,Intermediate,Pool,Froot Loops,Toad,Noah Kellogg,Dale Nower,Bradley Castle,Tori Mueller,21,11
+2021erie,Intermediate,Pool,Spiketacular,Banana Boys,Stephen Schoenwald,Isaac Beckler,Charles Kozy,Anthony Post,21,4
+2021erie,Intermediate,Pool,Chubby Octopus,Two Guys,Liam Sulc,David Pribozie,Konner Means,Jake VanScyoc,21,18
+2021erie,Intermediate,Pool,Udderly Ridiculous,Blonde Banditos 2.0,Wesley Sprys,Dylan Noker,Alex Yurkovich,Jared Brewster,21,10
+2021erie,Intermediate,Pool,Big & Bigger,Kurzweg/Kneidinger,Tyler Gibbens,Jason Williams,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,Ace Royale,Matching Big Juicy Butts,Jeremiah Friend,Joseph Friend,Morgan Mitchell,Alex Hutter,21,17
+2021erie,Intermediate,Pool,Off the Boys,Squatch gang,sam escourt,Patrick Fenlon,Clayton Banister,Brayden Miller,21,7
+2021erie,Intermediate,Pool,Pier Luck,Greece balls,Quinton Jackson,Kolton Ritter,Matthew Borelli,Garon Galiotti,21,16
+2021erie,Intermediate,Pool,Come Zone,The Mafia,Dom Gralia,Theo Wahlenmayer,Vaughn Spencer,Dustin Edwards,23,21
+2021erie,Intermediate,Pool,Doing Well,This Team,Nick Woll,Luke Wells,Jacob DeSchepper,Dylan Gaffey,9,21
+2021erie,Intermediate,Pool,Bee√≠s Touch,The Pink Ladies,Shayne Kraynyk,Donovan Brown,Lexi Tofanelli,Jack Tofanelli,19,21
+2021erie,Intermediate,Pool,Snoop D-O Double G,That Team,Alexander Stoj,Ashley Brawn,Taylor Barta,rickie piper,15,21
+2021erie,Intermediate,Pool,Froot Loops,Short and Shorter,Noah Kellogg,Dale Nower,Garrett Barth,Jacob Fusare,13,21
+2021erie,Intermediate,Pool,Toad,Banana Boys,Bradley Castle,Tori Mueller,Charles Kozy,Anthony Post,21,17
+2021erie,Intermediate,Pool,Spiketacular,Chubby Octopus,Stephen Schoenwald,Isaac Beckler,Liam Sulc,David Pribozie,21,9
+2021erie,Intermediate,Pool,Udderly Ridiculous,In It to Win It,Wesley Sprys,Dylan Noker,Matthew Schoenwald,Anna Beckler,12,21
+2021erie,Intermediate,Pool,Blonde Banditos 2.0,Kurzweg/Kneidinger,Alex Yurkovich,Jared Brewster,Theo Kurzweg,nathan kneidinger,21,15
+2021erie,Intermediate,Pool,Big & Bigger,Ace Royale,Tyler Gibbens,Jason Williams,Jeremiah Friend,Joseph Friend,11,21
+2021erie,Premier,Semi-finals,Vascular,Volley Llamas,Noah Luskus,Gabe Finocchi,Joe Bondi,William Picone,16,21
+2021erie,Premier,Semi-finals,Vascular,Volley Llamas,Noah Luskus,Gabe Finocchi,Joe Bondi,William Picone,21,18
+2021erie,Premier,Semi-finals,Vascular,Volley Llamas,Noah Luskus,Gabe Finocchi,Joe Bondi,William Picone,17,21
+2021erie,Premier,Semi-finals,Parallax,Graham/Showalter,Kyle Ackermann,Ryan Gross,Joel Graham,PJ Showalter,21,18
+2021erie,Premier,Semi-finals,Parallax,Graham/Showalter,Kyle Ackermann,Ryan Gross,Joel Graham,PJ Showalter,21,17
+2021erie,Premier,1st place,Volley Llamas,Parallax,Joe Bondi,William Picone,Kyle Ackermann,Ryan Gross,17,21
+2021erie,Premier,1st place,Volley Llamas,Parallax,Joe Bondi,William Picone,Kyle Ackermann,Ryan Gross,16,21
+2021erie,Premier,3rd place,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,17,21
+2021erie,Premier,3rd place,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,21,17
+2021erie,Premier,3rd place,Graham/Showalter,Vascular,Joel Graham,PJ Showalter,Noah Luskus,Gabe Finocchi,17,21
+2021erie,Premier,Quarter-finals,Barrel Roll Bros,DOfus,Derek Johnson,Ezra Dantowitz,Connor Prelich,Nate Hopkins,21,17
+2021erie,Premier,Quarter-finals,Barrel Roll Bros,DOfus,Derek Johnson,Ezra Dantowitz,Connor Prelich,Nate Hopkins,21,19
+2021erie,Premier,Quarter-finals,Dantowitz | Kaplan,Closed on Sundays,Josh Kaplan,Ben Dantowitz,Ian Timan,Brooks Anderson,17,21
+2021erie,Premier,Quarter-finals,Dantowitz | Kaplan,Closed on Sundays,Josh Kaplan,Ben Dantowitz,Ian Timan,Brooks Anderson,22,20
+2021erie,Premier,Quarter-finals,Dantowitz | Kaplan,Closed on Sundays,Josh Kaplan,Ben Dantowitz,Ian Timan,Brooks Anderson,21,18
+2021erie,Premier,Quarter-finals,Boobies & doobies,Old Line State,Brandon Spector,Zac Vance,Mark Borunda,James Swanson,21,15
+2021erie,Premier,Quarter-finals,Boobies & doobies,Old Line State,Brandon Spector,Zac Vance,Mark Borunda,James Swanson,27,26
+2021erie,Premier,Semi-finals,Kinda Calculated,Barrel Roll Bros,Ryan Marino,Dan Abrams,Derek Johnson,Ezra Dantowitz,21,10
+2021erie,Premier,Semi-finals,Kinda Calculated,Barrel Roll Bros,Ryan Marino,Dan Abrams,Derek Johnson,Ezra Dantowitz,21,19
+2021erie,Premier,Semi-finals,Dantowitz | Kaplan,Boobies & doobies,Josh Kaplan,Ben Dantowitz,Brandon Spector,Zac Vance,18,21
+2021erie,Premier,Semi-finals,Dantowitz | Kaplan,Boobies & doobies,Josh Kaplan,Ben Dantowitz,Brandon Spector,Zac Vance,20,22
+2021erie,Premier,1st place,Kinda Calculated,Boobies & doobies,Ryan Marino,Dan Abrams,Brandon Spector,Zac Vance,21,16
+2021erie,Premier,1st place,Kinda Calculated,Boobies & doobies,Ryan Marino,Dan Abrams,Brandon Spector,Zac Vance,21,19
+2021erie,Premier,3rd place,Dantowitz | Kaplan,Barrel Roll Bros,Josh Kaplan,Ben Dantowitz,Derek Johnson,Ezra Dantowitz,19,21
+2021erie,Premier,3rd place,Dantowitz | Kaplan,Barrel Roll Bros,Josh Kaplan,Ben Dantowitz,Derek Johnson,Ezra Dantowitz,21,18
+2021erie,Premier,3rd place,Dantowitz | Kaplan,Barrel Roll Bros,Josh Kaplan,Ben Dantowitz,Derek Johnson,Ezra Dantowitz,21,23
+2021erie,Premier,P5: Semi-finals,Old Line State,Closed on Sundays,Mark Borunda,James Swanson,Ian Timan,Brooks Anderson,NA,NA
+2021erie,Premier,P5: Semi-finals,Old Line State,Closed on Sundays,Mark Borunda,James Swanson,Ian Timan,Brooks Anderson,NA,NA
+2021erie,Premier,P5: Semi-finals,Old Line State,Closed on Sundays,Mark Borunda,James Swanson,Ian Timan,Brooks Anderson,NA,NA
+2021erie,Women's,Quarter-finals,Showalter/Pierson,Arachnets,Katie Pierson,Ashley Gingerich Showalter,Claire Barnwell,Damaris Attanasio,21,7
+2021erie,Women's,Quarter-finals,Showalter/Pierson,Arachnets,Katie Pierson,Ashley Gingerich Showalter,Claire Barnwell,Damaris Attanasio,21,9
+2021erie,Women's,Quarter-finals,Petrie/Lucas,Jazzy,Anna Lucas,Sarah Petrie,Bekah Smith,Melissa MacLean,17,21
+2021erie,Women's,Quarter-finals,Petrie/Lucas,Jazzy,Anna Lucas,Sarah Petrie,Bekah Smith,Melissa MacLean,24,23
+2021erie,Women's,Quarter-finals,Petrie/Lucas,Jazzy,Anna Lucas,Sarah Petrie,Bekah Smith,Melissa MacLean,21,13
+2021erie,Women's,Quarter-finals,Scrambled,Double Trouble,Krista Shrock,Allie Foster,Mekenzie Heinle,Madalyn Heinle,21,13
+2021erie,Women's,Quarter-finals,Scrambled,Double Trouble,Krista Shrock,Allie Foster,Mekenzie Heinle,Madalyn Heinle,21,14
+2021erie,Women's,Quarter-finals,Beast mode,Heroes in Disguise,Alea Kurtz,Kim Hostetler,lindsay metzger,Cece Rodriguez,21,9
+2021erie,Women's,Quarter-finals,Beast mode,Heroes in Disguise,Alea Kurtz,Kim Hostetler,lindsay metzger,Cece Rodriguez,21,10
+2021erie,Women's,Semi-finals,Showalter/Pierson,Petrie/Lucas,Katie Pierson,Ashley Gingerich Showalter,Anna Lucas,Sarah Petrie,21,11
+2021erie,Women's,Semi-finals,Showalter/Pierson,Petrie/Lucas,Katie Pierson,Ashley Gingerich Showalter,Anna Lucas,Sarah Petrie,21,6
+2021erie,Women's,Semi-finals,Scrambled,Beast mode,Krista Shrock,Allie Foster,Alea Kurtz,Kim Hostetler,21,17
+2021erie,Women's,Semi-finals,Scrambled,Beast mode,Krista Shrock,Allie Foster,Alea Kurtz,Kim Hostetler,21,19
+2021erie,Women's,1st place,Showalter/Pierson,Scrambled,Katie Pierson,Ashley Gingerich Showalter,Krista Shrock,Allie Foster,21,17
+2021erie,Women's,1st place,Showalter/Pierson,Scrambled,Katie Pierson,Ashley Gingerich Showalter,Krista Shrock,Allie Foster,21,17
+2021erie,Women's,3rd place,Beast mode,Petrie/Lucas,Alea Kurtz,Kim Hostetler,Anna Lucas,Sarah Petrie,21,6
+2021erie,Women's,P5: Semi-finals,Jazzy,Arachnets,Bekah Smith,Melissa MacLean,Claire Barnwell,Damaris Attanasio,21,11
+2021erie,Women's,P5: Semi-finals,Heroes in Disguise,Double Trouble,lindsay metzger,Cece Rodriguez,Mekenzie Heinle,Madalyn Heinle,0,2
+2021erie,Women's,5th place,Jazzy,Double Trouble,Bekah Smith,Melissa MacLean,Mekenzie Heinle,Madalyn Heinle,NA,NA
+2021erie,Women's,7th place,Heroes in Disguise,Arachnets,lindsay metzger,Cece Rodriguez,Claire Barnwell,Damaris Attanasio,NA,NA
+2021erie,Contender,Round of 64,The Spikeman Cometh,PowerLine,Jared Heidt,David Estes,Trey Felton,Jonathan Saysamone,0,21
+2021erie,Contender,Round of 64,The Spikeman Cometh,PowerLine,Jared Heidt,David Estes,Trey Felton,Jonathan Saysamone,0,21
+2021erie,Contender,Round of 64,The Silly Willies,UNK.,matthew finocchiaro,Antonio Riozzi,Christopher Richards,Daniel Rafalovitch,21,9
+2021erie,Contender,Round of 64,The Silly Willies,UNK.,matthew finocchiaro,Antonio Riozzi,Christopher Richards,Daniel Rafalovitch,21,15
+2021erie,Contender,Round of 64,Mussari,2 Guys 1 Ball,Jeremy Mussari,Michael Mussari,Soham Shah,Liam O'Reilly,21,9
+2021erie,Contender,Round of 64,Mussari,2 Guys 1 Ball,Jeremy Mussari,Michael Mussari,Soham Shah,Liam O'Reilly,21,7
+2021erie,Contender,Round of 32,WILSOOOOOON!!!!,PowerLine,Hudson Ford,Nathan Wilson,Trey Felton,Jonathan Saysamone,21,6
+2021erie,Contender,Round of 32,WILSOOOOOON!!!!,PowerLine,Hudson Ford,Nathan Wilson,Trey Felton,Jonathan Saysamone,21,9
+2021erie,Contender,Round of 32,Enough is Enough,Bread and Butter,Harrison Yen,Michael Lin,Rendall Weaver,Evan Yoder,16,21
+2021erie,Contender,Round of 32,Enough is Enough,Bread and Butter,Harrison Yen,Michael Lin,Rendall Weaver,Evan Yoder,10,21
+2021erie,Contender,Round of 32,Flower Power,Molby Dick,Kieran Rose,Nathan Stack,Nathan Molby,Tommy Oddo,21,10
+2021erie,Contender,Round of 32,Flower Power,Molby Dick,Kieran Rose,Nathan Stack,Nathan Molby,Tommy Oddo,21,17
+2021erie,Contender,Round of 32,Runners Up,BING BONG,Skyler Sebring,Mitchell Grosteffon,Thomas Hoffman,Chris Hoffman,21,17
+2021erie,Contender,Round of 32,Runners Up,BING BONG,Skyler Sebring,Mitchell Grosteffon,Thomas Hoffman,Chris Hoffman,21,13
+2021erie,Contender,Round of 32,Tweenie Weenie Nation,Wentlings,Grant Klapwijk,Justin Barr,Trap Wentling,Jamin Wentling,21,11
+2021erie,Contender,Round of 32,Tweenie Weenie Nation,Wentlings,Grant Klapwijk,Justin Barr,Trap Wentling,Jamin Wentling,21,14
+2021erie,Contender,Round of 32,Highpockets,Dropshot Drip,Tommy Drake,Henry Pleszkoch,Joel Lapp,Tyler Keener,21,18
+2021erie,Contender,Round of 32,Highpockets,Dropshot Drip,Tommy Drake,Henry Pleszkoch,Joel Lapp,Tyler Keener,17,21
+2021erie,Contender,Round of 32,Highpockets,Dropshot Drip,Tommy Drake,Henry Pleszkoch,Joel Lapp,Tyler Keener,18,21
+2021erie,Contender,Round of 32,Free On Mach,Italian Stallions,Pat Marinich,Demitri Forand,Claudio Lampone,Jon Finocchiaro,21,14
+2021erie,Contender,Round of 32,Free On Mach,Italian Stallions,Pat Marinich,Demitri Forand,Claudio Lampone,Jon Finocchiaro,21,12
+2021erie,Contender,Round of 32,Lanky Smoove,Down BAD ;(,Micah Bouman,Max Fiebelkorn,Ben Roy,Billy Neumeister,21,15
+2021erie,Contender,Round of 32,Lanky Smoove,Down BAD ;(,Micah Bouman,Max Fiebelkorn,Ben Roy,Billy Neumeister,21,16
+2021erie,Contender,Round of 32,Brush Your Teeth,The Silly Willies,Kevin McClain,Dan Bonowski,matthew finocchiaro,Antonio Riozzi,21,16
+2021erie,Contender,Round of 32,Brush Your Teeth,The Silly Willies,Kevin McClain,Dan Bonowski,matthew finocchiaro,Antonio Riozzi,21,17
+2021erie,Contender,Round of 32,Ditto,The Friend Bros,Jake Heidman,Jake Vladyka,Judah Friend,Josiah Friend,18,21
+2021erie,Contender,Round of 32,Ditto,The Friend Bros,Jake Heidman,Jake Vladyka,Judah Friend,Josiah Friend,21,15
+2021erie,Contender,Round of 32,Ditto,The Friend Bros,Jake Heidman,Jake Vladyka,Judah Friend,Josiah Friend,21,19
+2021erie,Contender,Round of 32,Synthetic,Batt/Calvin,Jason Hironimus,Gavin Broekema,Joe Batt,Brenden Calvin,21,11
+2021erie,Contender,Round of 32,Synthetic,Batt/Calvin,Jason Hironimus,Gavin Broekema,Joe Batt,Brenden Calvin,21,16
+2021erie,Contender,Round of 32,Ike N Spike,epic slammo,Jenson Miller,Nathan Yoder,Rob's Traveler,Tim Lacagnina,18,21
+2021erie,Contender,Round of 32,Ike N Spike,epic slammo,Jenson Miller,Nathan Yoder,Rob's Traveler,Tim Lacagnina,18,21
+2021erie,Contender,Round of 32,Pocket Rockets,Mussari,Donald Fung,Nick Mesa,Jeremy Mussari,Michael Mussari,21,14
+2021erie,Contender,Round of 32,Pocket Rockets,Mussari,Donald Fung,Nick Mesa,Jeremy Mussari,Michael Mussari,21,8
+2021erie,Contender,Round of 32,Boost,say spike rn,Charlie Freeman,Alex Luc,Trenton Lam,Dominic Ferenac,21,19
+2021erie,Contender,Round of 32,Boost,say spike rn,Charlie Freeman,Alex Luc,Trenton Lam,Dominic Ferenac,21,19
+2021erie,Contender,Round of 32,Slack,Grim,Isaac Freeman,Ian Slattery,Oliver Graham,Ian Graham,21,11
+2021erie,Contender,Round of 32,Slack,Grim,Isaac Freeman,Ian Slattery,Oliver Graham,Ian Graham,21,10
+2021erie,Contender,Round of 32,Bait and Glitch,Anomaly,Owen Bass,Luke Nickel,Bosif Johnson,Stephen Sweeney,21,18
+2021erie,Contender,Round of 32,Bait and Glitch,Anomaly,Owen Bass,Luke Nickel,Bosif Johnson,Stephen Sweeney,21,15
+2021erie,Contender,Round of 16,WILSOOOOOON!!!!,Bread and Butter,Hudson Ford,Nathan Wilson,Rendall Weaver,Evan Yoder,21,18
+2021erie,Contender,Round of 16,WILSOOOOOON!!!!,Bread and Butter,Hudson Ford,Nathan Wilson,Rendall Weaver,Evan Yoder,28,26
+2021erie,Contender,Round of 16,Flower Power,Runners Up,Kieran Rose,Nathan Stack,Skyler Sebring,Mitchell Grosteffon,14,21
+2021erie,Contender,Round of 16,Flower Power,Runners Up,Kieran Rose,Nathan Stack,Skyler Sebring,Mitchell Grosteffon,17,21
+2021erie,Contender,Round of 16,Tweenie Weenie Nation,Dropshot Drip,Grant Klapwijk,Justin Barr,Joel Lapp,Tyler Keener,21,15
+2021erie,Contender,Round of 16,Tweenie Weenie Nation,Dropshot Drip,Grant Klapwijk,Justin Barr,Joel Lapp,Tyler Keener,21,13
+2021erie,Contender,Round of 16,Free On Mach,Lanky Smoove,Pat Marinich,Demitri Forand,Micah Bouman,Max Fiebelkorn,21,18
+2021erie,Contender,Round of 16,Free On Mach,Lanky Smoove,Pat Marinich,Demitri Forand,Micah Bouman,Max Fiebelkorn,21,14
+2021erie,Contender,Round of 16,Brush Your Teeth,Ditto,Kevin McClain,Dan Bonowski,Jake Heidman,Jake Vladyka,21,13
+2021erie,Contender,Round of 16,Brush Your Teeth,Ditto,Kevin McClain,Dan Bonowski,Jake Heidman,Jake Vladyka,25,23
+2021erie,Contender,Round of 16,Synthetic,epic slammo,Jason Hironimus,Gavin Broekema,Rob's Traveler,Tim Lacagnina,21,17
+2021erie,Contender,Round of 16,Synthetic,epic slammo,Jason Hironimus,Gavin Broekema,Rob's Traveler,Tim Lacagnina,21,17
+2021erie,Contender,Round of 16,Pocket Rockets,Boost,Donald Fung,Nick Mesa,Charlie Freeman,Alex Luc,21,13
+2021erie,Contender,Round of 16,Pocket Rockets,Boost,Donald Fung,Nick Mesa,Charlie Freeman,Alex Luc,21,14
+2021erie,Contender,Round of 16,Slack,Bait and Glitch,Isaac Freeman,Ian Slattery,Owen Bass,Luke Nickel,20,22
+2021erie,Contender,Round of 16,Slack,Bait and Glitch,Isaac Freeman,Ian Slattery,Owen Bass,Luke Nickel,20,22
+2021erie,Contender,Quarter-finals,WILSOOOOOON!!!!,Runners Up,Hudson Ford,Nathan Wilson,Skyler Sebring,Mitchell Grosteffon,10,21
+2021erie,Contender,Quarter-finals,WILSOOOOOON!!!!,Runners Up,Hudson Ford,Nathan Wilson,Skyler Sebring,Mitchell Grosteffon,15,21
+2021erie,Contender,Quarter-finals,Tweenie Weenie Nation,Free On Mach,Grant Klapwijk,Justin Barr,Pat Marinich,Demitri Forand,21,7
+2021erie,Contender,Quarter-finals,Tweenie Weenie Nation,Free On Mach,Grant Klapwijk,Justin Barr,Pat Marinich,Demitri Forand,21,15
+2021erie,Contender,Quarter-finals,Brush Your Teeth,Synthetic,Kevin McClain,Dan Bonowski,Jason Hironimus,Gavin Broekema,21,17
+2021erie,Contender,Quarter-finals,Brush Your Teeth,Synthetic,Kevin McClain,Dan Bonowski,Jason Hironimus,Gavin Broekema,21,8
+2021erie,Contender,Quarter-finals,Pocket Rockets,Bait and Glitch,Donald Fung,Nick Mesa,Owen Bass,Luke Nickel,21,17
+2021erie,Contender,Quarter-finals,Pocket Rockets,Bait and Glitch,Donald Fung,Nick Mesa,Owen Bass,Luke Nickel,21,18
+2021erie,Contender,Semi-finals,Runners Up,Tweenie Weenie Nation,Skyler Sebring,Mitchell Grosteffon,Grant Klapwijk,Justin Barr,0,21
+2021erie,Contender,Semi-finals,Runners Up,Tweenie Weenie Nation,Skyler Sebring,Mitchell Grosteffon,Grant Klapwijk,Justin Barr,0,21
+2021erie,Contender,Semi-finals,Brush Your Teeth,Pocket Rockets,Kevin McClain,Dan Bonowski,Donald Fung,Nick Mesa,17,21
+2021erie,Contender,Semi-finals,Brush Your Teeth,Pocket Rockets,Kevin McClain,Dan Bonowski,Donald Fung,Nick Mesa,17,21
+2021erie,Contender,1st place,Tweenie Weenie Nation,Pocket Rockets,Grant Klapwijk,Justin Barr,Donald Fung,Nick Mesa,21,17
+2021erie,Contender,1st place,Tweenie Weenie Nation,Pocket Rockets,Grant Klapwijk,Justin Barr,Donald Fung,Nick Mesa,21,11
+2021erie,Contender,3rd place,Brush Your Teeth,Runners Up,Kevin McClain,Dan Bonowski,Skyler Sebring,Mitchell Grosteffon,21,0
+2021erie,Contender,3rd place,Brush Your Teeth,Runners Up,Kevin McClain,Dan Bonowski,Skyler Sebring,Mitchell Grosteffon,21,0
+2021erie,Contender,P5: Semi-finals,Free On Mach,WILSOOOOOON!!!!,Pat Marinich,Demitri Forand,Hudson Ford,Nathan Wilson,NA,NA
+2021erie,Contender,P5: Semi-finals,Bait and Glitch,Synthetic,Owen Bass,Luke Nickel,Jason Hironimus,Gavin Broekema,NA,NA
+2021erie,Contender,P9: Quarter-finals,Flower Power,Bread and Butter,Kieran Rose,Nathan Stack,Rendall Weaver,Evan Yoder,NA,NA
+2021erie,Contender,P9: Quarter-finals,Lanky Smoove,Dropshot Drip,Micah Bouman,Max Fiebelkorn,Joel Lapp,Tyler Keener,NA,NA
+2021erie,Contender,P9: Quarter-finals,epic slammo,Ditto,Rob's Traveler,Tim Lacagnina,Jake Heidman,Jake Vladyka,NA,NA
+2021erie,Contender,P9: Quarter-finals,Slack,Boost,Isaac Freeman,Ian Slattery,Charlie Freeman,Alex Luc,0,1
+2021erie,Contender,P17: Round of 16,Enough is Enough,PowerLine,Harrison Yen,Michael Lin,Trey Felton,Jonathan Saysamone,21,10
+2021erie,Contender,P17: Round of 16,BING BONG,Molby Dick,Thomas Hoffman,Chris Hoffman,Nathan Molby,Tommy Oddo,16,21
+2021erie,Contender,P17: Round of 16,Highpockets,Wentlings,Tommy Drake,Henry Pleszkoch,Trap Wentling,Jamin Wentling,NA,NA
+2021erie,Contender,P17: Round of 16,Down BAD ;(,Italian Stallions,Ben Roy,Billy Neumeister,Claudio Lampone,Jon Finocchiaro,19,21
+2021erie,Contender,P17: Round of 16,The Friend Bros,The Silly Willies,Judah Friend,Josiah Friend,matthew finocchiaro,Antonio Riozzi,NA,NA
+2021erie,Contender,P17: Round of 16,Ike N Spike,Batt/Calvin,Jenson Miller,Nathan Yoder,Joe Batt,Brenden Calvin,NA,NA
+2021erie,Contender,P17: Round of 16,say spike rn,Mussari,Trenton Lam,Dominic Ferenac,Jeremy Mussari,Michael Mussari,NA,NA
+2021erie,Contender,P17: Round of 16,Anomaly,Grim,Bosif Johnson,Stephen Sweeney,Oliver Graham,Ian Graham,21,13
+2021erie,Contender,P17: Quarter-finals,Enough is Enough,Molby Dick,Harrison Yen,Michael Lin,Nathan Molby,Tommy Oddo,NA,NA
+2021erie,Contender,P25: Quarter-finals,BING BONG,PowerLine,Thomas Hoffman,Chris Hoffman,Trey Felton,Jonathan Saysamone,NA,NA
+2021erie,Contender,P33: Semi-finals,UNK.,2 Guys 1 Ball,Christopher Richards,Daniel Rafalovitch,Soham Shah,Liam O'Reilly,NA,NA

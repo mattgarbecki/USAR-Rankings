@@ -1,0 +1,12 @@
+#input column names
+tournament = "tourney"
+division = "Division"
+play_round = "Round"
+first_team = "Team1"
+second_team = "Team2"
+first_team_first_player = "T1P1"
+first_team_second_player = "T1P2"
+second_team_first_player = "T2P1"
+second_team_second_player = "T2P2"
+first_team_score = "t1score"
+second_team_score = "t2score"
