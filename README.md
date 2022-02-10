@@ -12,6 +12,7 @@ Then, navigate to the terminal on Mac (for windows instructions we can expand la
 1. Navigate to the folder you would like these files to be in using the cd command.
 2. Run "conda create --name rankings_env python==3.9
 3. Run "conda activate rankings_env"
+4. Run "pip install -r requirements.txt"
 
 Now, you should be all set to run the python code!
 
