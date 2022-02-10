@@ -3,6 +3,7 @@
 #data preprocessing config parameters
 preprocessing:
   input_path: "./data/Tourney Results/"
+  preprocessed_data_path: "./data/preprocessed_data/"
   input_file_type: "csv"
   remove_matches_with_unknown_winners: True
   minimum_misspelling_confidence: 80

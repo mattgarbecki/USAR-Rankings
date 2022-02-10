@@ -10,4 +10,8 @@ with open("./configs/config.yaml", 'r') as stream:
 
 #preprocessing our tournament data
 df = preprocess_tournament_results(cfg["preprocessing"])
-print("made it here", df)
+
+#placeholder for an actual rankings model
+
+#printing message to specify that we finished
+print("Completed the workflow")
